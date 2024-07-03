@@ -1,3 +1,4 @@
+![Google](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/assets/158431578/73686082-34c8-4c6e-9591-bb93fbaad7cb)
 # About the Google Cybersecurity Professional Certificate
 The Google Cybersecurity Professional Certificate consists of 8 online courses that provide the tools and skills to succeed in Cybersecurity, including Python, Linux, SQL, Security Information and Event Management (SIEM) tools, Intrusion Detection Systems (IDS), communication, collaboration, analysis, problem solving and more!
 
