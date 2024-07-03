@@ -19,3 +19,13 @@ This repository contains select course content, relevant notes, bits of code, fi
 - **Course 6:** Sound the Alarm: Detection and Response
 - **Course 7:** Automate Cybersecurity Tasks with Python
 - **Course 8:** Put It to Work: Prepare for Cybersecurity Jobs
+
+## Skills for Cybersecurity
+- Python Programming
+- SQL
+- Linux
+- Security Information and Event Management (SIEM)
+- Intrusion Detection Systems (IDS)
+
+# My Employer-Recognized Certificate from Google:
+*Coming Soon...*
