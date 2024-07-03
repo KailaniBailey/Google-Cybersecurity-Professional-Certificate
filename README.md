@@ -18,7 +18,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 - **Course 4:** [Tools of the Trade: Linux and SQL](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204%3A%20Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL)
 - **Course 5:** [Assets, Threats, and Vulnerabilities](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities)
 - **Course 6:** [Sound the Alarm: Detection and Response](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206%3A%20Sound%20the%20Alarm%3A%20Detection%20and%20Response)
-- **Course 7:** Automate Cybersecurity Tasks with Python
+- **Course 7:** [Automate Cybersecurity Tasks with Python](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%207%3A%20Automate%20Cybersecurity%20Tasks%20with%20Python)
 - **Course 8:** Put It to Work: Prepare for Cybersecurity Jobs
 
 ## Course Objectives
