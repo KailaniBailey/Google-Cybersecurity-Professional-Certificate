@@ -19,7 +19,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 - **Course 5:** [Assets, Threats, and Vulnerabilities](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities)
 - **Course 6:** [Sound the Alarm: Detection and Response](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206%3A%20Sound%20the%20Alarm%3A%20Detection%20and%20Response)
 - **Course 7:** [Automate Cybersecurity Tasks with Python](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%207%3A%20Automate%20Cybersecurity%20Tasks%20with%20Python)
-- **Course 8:** Put It to Work: Prepare for Cybersecurity Jobs
+- **Course 8:** [Put It to Work: Prepare for Cybersecurity Jobs](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208%3A%20Put%20It%20to%20Work%3A%20Prepare%20for%20Cybersecurity%20Jobs)
 
 ## Course Objectives
 - Understand the importance of cybersecurity practices and their impact for organizations.
