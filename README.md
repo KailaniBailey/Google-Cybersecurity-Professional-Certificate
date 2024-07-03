@@ -20,6 +20,11 @@ This repository contains select course content, relevant notes, bits of code, fi
 - **Course 7:** Automate Cybersecurity Tasks with Python
 - **Course 8:** Put It to Work: Prepare for Cybersecurity Jobs
 
+## Course Objectives
+- Understand the importance of cybersecurity practices and their impact for organizations.
+- Protect networks, devices, people, and data from unauthorized access and cyberattacks using Security Information and Event Management (SIEM) tools.
+- Identify common risks, threats, and vulnerabilities, as well as techniques to mitigate them.
+- Gain hands-on experience with Python, Linux, and SQL.
 ## Skills for Cybersecurity
 - Python Programming
 - SQL
