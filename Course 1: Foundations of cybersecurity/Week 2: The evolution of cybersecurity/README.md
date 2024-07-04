@@ -22,4 +22,4 @@
 ## Review: The evolution of cybersecurity
 - Wrap-up
 - Glossary terms from module 2
-- **Graded Quiz:** Module 2 challenge
+- **Graded Quiz:** Module 2 challenge (97.5%)
