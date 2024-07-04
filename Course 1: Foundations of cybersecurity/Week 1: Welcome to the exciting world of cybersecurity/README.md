@@ -37,4 +37,4 @@
 ## Review: Welcome to the exciting world of cybersecurity
 - Wrap-up
 - [Glossary terms from module 1](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%201%3A%20Foundations%20of%20cybersecurity/Week%201%3A%20Welcome%20to%20the%20exciting%20world%20of%20cybersecurity/Course%201%20glossary.pdf)
-- **Graded Quiz:** Module 1 challenge
+- **Graded Quiz:** Module 1 challenge (91.66%)
