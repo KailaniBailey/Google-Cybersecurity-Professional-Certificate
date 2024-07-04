@@ -17,7 +17,7 @@
 - Introduction to the eight CISSP security domains, Part 1
 - Introduction to the eight CISSP security domains, Part 2
 - [Determine the type of attack](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201%3A%20Foundations%20of%20cybersecurity/Week%202%3A%20The%20evolution%20of%20cybersecurity/Determine%20the%20type%20of%20attack)
-- Understand attackers
+- [Understand attackers](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20cybersecurity/Week%202:%20The%20evolution%20of%20cybersecurity/Understand%20attackers)
 - **Practice Quiz:** Test your knowledge: The eight CISSP security domains
 ## Review: The evolution of cybersecurity
 - Wrap-up
