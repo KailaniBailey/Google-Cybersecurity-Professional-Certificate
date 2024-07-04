@@ -31,10 +31,9 @@ A **physical attack** is a security incident that affects not only digital but a
 Physical attacks fall under the asset security domain. 
 
 ### **Adversarial artificial intelligence**
-**Adversarial artificial intelligence** is a technique that manipulates 
-artificial intelligence and machine learning technology to conduct attacks more efficiently. Adversarial artificial intelligence falls under both the communication and network security and the identity and access management domains.
+**Adversarial artificial intelligence** is a technique that manipulates [artificial intelligence and machine learning](https://www.nccoe.nist.gov/ai/adversarial-machine-learning) technology to conduct attacks more efficiently. Adversarial artificial intelligence falls under both the communication and network security and the identity and access management domains.
 
-## **Supply-chain attack**
+### **Supply-chain attack**
 A **supply-chain attack** targets systems, applications, hardware, and/or software to locate a vulnerability where malware can be deployed. Because every item sold undergoes a process that involves third parties, this means that the security breach can occur at any point in the supply chain. These attacks are costly because they can affect multiple organizations and the individuals who work for them. Supply-chain attacks can fall under several domains, including but not limited to the security and risk management, security architecture and engineering, and security operations domains.
 
 ### **Cryptographic attack**
@@ -50,6 +49,6 @@ The eight CISSP security domains can help an organization and its security team 
 
 ## Resources for more information
 To view detailed information and definitions of terms covered in this reading, visit the 
-National Institute of Standards and Technology (NIST) glossary.
+[National Institute of Standards and Technology (NIST) glossary](https://csrc.nist.gov/glossary/term/nist).
 
 **Pro tip:** If you cannot find a term in the NIST glossary, enter the appropriate search term (e.g., “cybersecurity birthday attack”) into your preferred search engine to locate the definition in another reliable source such as a .edu or .gov site.
