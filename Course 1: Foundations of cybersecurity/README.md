@@ -14,12 +14,21 @@ Course 1 of 8 in the Google Cybersecurity Professional Certificate
 - Explain security ethics
 - Identify how security attacks impact business operations
 - Identify common tools used by cybersecurity analysts
+- Define the field of security
+- Identify eight security domains
+- Define security frameworks and controls
+
 ## Skills Developed
 - Cybersecurity
 - Information Security (INFOSEC)
 - Ethics in cybersecurity
 - NIST Cybersecurity Framework (CSF)
 - Historical Attacks
+- Communicating effectively
+- Collaborating with others
+- Identifying threats, risks, and vulnerabilities
+- Problem-solving
+
 ## Final Assignment
 ## Final Exam
 # Course 1 Completion Certificate:
