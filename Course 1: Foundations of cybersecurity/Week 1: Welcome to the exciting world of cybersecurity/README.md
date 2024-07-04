@@ -33,7 +33,7 @@
 - The importance of cybersecurity
 - Explore: Keep organizations secure
 - The value of cybersecurity
-- **Practice Quiz:** Test your knowledge: Core skills for cybersecurity professionals
+- **Practice Quiz:** Test your knowledge: Core skills for cybersecurity professionals (100%)
 ## Review: Welcome to the exciting world of cybersecurity
 - Wrap-up
 - [Glossary terms from module 1](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%201%3A%20Foundations%20of%20cybersecurity/Week%201%3A%20Welcome%20to%20the%20exciting%20world%20of%20cybersecurity/Course%201%20glossary.pdf)
