@@ -9,6 +9,16 @@
 - Describe how security analysts protect networks and information
 
 ## Get started with the certificate program
+- Welcome to the Google Cybersecurity Certificate
+- Google Cybersecurity Certificate overview
+- Course 1 overview
+- Your Google Cybersecurity Certificate roadmap
+- Welcome to week 1
+- Commit to completing the program
+- Helpful resources and tips
+- Participate in program surveys
+- Google Cybersecurity Certificate participant entry survey
+- Connect with your classmates
 ## Introduction to cybersecurity
 ## Core skills for cybersecurity professionals
 ## Review: Welcome to the exciting world of cybersecurity
