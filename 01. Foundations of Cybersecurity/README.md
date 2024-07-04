@@ -10,7 +10,16 @@ Course 1 of 8 in the Google Cybersecurity Professional Certificate
 - Week 4: [Cybersecurity tools and programming languages](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/01.%20Foundations%20of%20Cybersecurity/Week%204%3A%20Cybersecurity%20tools%20and%20programming%20languages)
 
 ## Summary of Tasks
+- Recognize core skills and knowledge needed to become a cybersecurity analyst
+- Explain security ethics
+- Identify how security attacks impact business operations
+- Identify common tools used by cybersecurity analysts
 ## Skills Developed
+- Cybersecurity
+- Information Security (INFOSEC)
+- Ethics in cybersecurity
+- NIST Cybersecurity Framework (CSF)
+- Historical Attacks
 ## Final Assignment
 ## Final Exam
 # Course 1 Completion Certificate:
