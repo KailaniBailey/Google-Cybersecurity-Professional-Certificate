@@ -25,7 +25,7 @@
 - Responsibilities of an entry-level cybersecurity analyst
 - Nikki: A day in the life of a security engineer
 - [Common cybersecurity terminology](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20cybersecurity/Week%201:%20Welcome%20to%20the%20exciting%20world%20of%20cybersecurity/Common%20cybersecurity%20terminology)
-- **Practice Quiz:** Test your knowledge: Introduction to cybersecurity
+- **Practice Quiz:** Test your knowledge: Introduction to cybersecurity (100%)
 ## Core skills for cybersecurity professionals
 - Core skills for cybersecurity professionals
 - Veronica: My path to working in cybersecurity
