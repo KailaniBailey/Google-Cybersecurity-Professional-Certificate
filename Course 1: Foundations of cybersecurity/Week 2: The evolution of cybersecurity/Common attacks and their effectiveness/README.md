@@ -33,13 +33,13 @@ Some of the most common types of social engineering attacks today include:
 Social engineering is incredibly effective. This is because people are generally trusting and conditioned to respect authority. The number of social engineering attacks is increasing with every new social media application that allows public access to people's data. Although sharing personal data—such as your location or photos—can be convenient, it’s also a risk.
 
 Reasons why social engineering attacks are effective include:
-- Authority: Threat actors impersonate individuals with power. This is because people, in general, have been conditioned to respect and follow authority figures.
-- Intimidation: Threat actors use bullying tactics. This includes persuading and intimidating victims into doing what they’re told.
-- Consensus/Social proof: Because people sometimes do things that they believe many others are doing, threat actors use others’ trust to pretend they are legitimate. For example, a threat actor might try to gain access to private data by telling an employee that other people at the company have given them access to that data in the past.
-- Scarcity: A tactic used to imply that goods or services are in limited supply.
-- Familiarity: Threat actors establish a fake emotional connection with users that can be exploited.
-- Trust: Threat actors establish an emotional relationship with users that can be exploited over time. They use this relationship to develop trust and gain personal information.
-- Urgency: A threat actor persuades others to respond quickly and without questioning.
+- **Authority:** Threat actors impersonate individuals with power. This is because people, in general, have been conditioned to respect and follow authority figures.
+- **Intimidation:** Threat actors use bullying tactics. This includes persuading and intimidating victims into doing what they’re told.
+- **Consensus/Social proof:** Because people sometimes do things that they believe many others are doing, threat actors use others’ trust to pretend they are legitimate. For example, a threat actor might try to gain access to private data by telling an employee that other people at the company have given them access to that data in the past.
+- **Scarcity:** A tactic used to imply that goods or services are in limited supply.
+- **Familiarity:** Threat actors establish a fake emotional connection with users that can be exploited.
+- **Trust:** Threat actors establish an emotional relationship with users that can be exploited over time. They use this relationship to develop trust and gain personal information.
+- **Urgency:** A threat actor persuades others to respond quickly and without questioning.
 
 ## **Key takeaways**
 In this reading, you learned about some common attacks and their impacts. You also learned about social engineering and why it’s so successful. While this is only a brief introduction to attack types, you will have many opportunities throughout the program to further develop your understanding of how to identify and defend against cybersecurity attacks. 
