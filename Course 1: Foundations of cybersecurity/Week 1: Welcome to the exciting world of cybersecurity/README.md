@@ -20,6 +20,12 @@
 - Google Cybersecurity Certificate participant entry survey
 - Connect with your classmates
 ## Introduction to cybersecurity
+- Introduction to cybersecurity
+- Toni: My path to cybersecurity
+- Responsibilities of an entry-level cybersecurity analyst
+- Nikki: A day in the life of a security engineer
+- Common cybersecurity terminology
+- **Practice Quiz:** Test your knowledge: Introduction to cybersecurity
 ## Core skills for cybersecurity professionals
 ## Review: Welcome to the exciting world of cybersecurity
 - Wrap-up
