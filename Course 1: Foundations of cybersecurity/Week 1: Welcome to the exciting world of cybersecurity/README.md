@@ -27,6 +27,13 @@
 - Common cybersecurity terminology
 - **Practice Quiz:** Test your knowledge: Introduction to cybersecurity
 ## Core skills for cybersecurity professionals
+- Core skills for cybersecurity professionals
+- Veronica: My path to working in cybersecurity
+- Transferable and technical cybersecurity skills
+- The importance of cybersecurity
+- Explore: Keep organizations secure
+- The value of cybersecurity
+- **Practice Quiz:** Test your knowledge: Core skills for cybersecurity professionals
 ## Review: Welcome to the exciting world of cybersecurity
 - Wrap-up
 - Glossary terms from module 1
