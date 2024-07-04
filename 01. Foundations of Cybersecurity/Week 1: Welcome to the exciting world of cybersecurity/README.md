@@ -1,5 +1,8 @@
 # Welcome to the exciting world of cybersecurity
 > Begin your journey into cybersecurity! You'll explore the cybersecurity field, and learn about the job responsibilities of cybersecurity professionals.
+>
+> Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities.
+> 
 # Learning Objectives
 - Explain how this certificate program will help prepare learners for a career in security
 - Define the field of security
