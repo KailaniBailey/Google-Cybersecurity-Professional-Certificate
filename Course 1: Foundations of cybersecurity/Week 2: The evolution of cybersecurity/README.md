@@ -9,7 +9,7 @@
 - Welcome to module 2
 - Past cybersecurity attacks
 - Attacks in the digital age
-- Common attacks and their effectiveness
+- [Common attacks and their effectiveness](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20cybersecurity/Week%202:%20The%20evolution%20of%20cybersecurity/Common%20attacks%20and%20their%20effectiveness)
 - Identify: Methods of attack
 - Sean: Keep your cool during a data breach
 - **Practice Quiz:** Test your knowledge: The history of cybersecurity
