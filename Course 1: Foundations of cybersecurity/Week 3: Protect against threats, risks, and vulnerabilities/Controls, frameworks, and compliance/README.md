@@ -38,7 +38,7 @@ GDPR is a European Union (E.U.) general data regulation that protects the proces
 ### **Payment Card Industry Data Security Standard (PCI DSS)**
 PCI DSS is an international security standard meant to ensure that organizations storing, accepting, processing, and transmitting credit card information do so in a secure environment. The objective of this compliance standard is to reduce credit card fraud. 
 
-## **The Health Insurance Portability and Accountability Act (HIPAA)**
+### **The Health Insurance Portability and Accountability Act (HIPAA)**
 HIPAA is a U.S. federal law established in 1996 to protect patients' health information. This law prohibits patient information from being shared without their consent. It is governed by three rules:
 - Privacy
 - Security
