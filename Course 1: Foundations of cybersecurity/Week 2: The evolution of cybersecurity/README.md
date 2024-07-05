@@ -21,5 +21,5 @@
 - **Practice Quiz:** Test your knowledge: The eight CISSP security domains (100%)
 ## Review: The evolution of cybersecurity
 - Wrap-up
-- Glossary terms from module 2
+- [Glossary terms from module 2](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20cybersecurity/Week%202:%20The%20evolution%20of%20cybersecurity/Glossary%20terms%20from%20module%202)
 - **Graded Quiz:** Module 2 challenge (97.5%)
