@@ -15,7 +15,7 @@
 - Introduction to Linux, SQL, and Python
 - [Use tools to protect business operations](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20cybersecurity/Week%204:%20Cybersecurity%20tools%20and%20programming%20languages/Use%20tools%20to%20protect%20business%20operations)
 - **Practice Quiz:** Test your knowledge: Core cybersecurity knowledge and skills
-- Create a cybersecurity portfolio
+- [Create a cybersecurity portfolio](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20cybersecurity/Week%204:%20Cybersecurity%20tools%20and%20programming%20languages/Create%20a%20cybersecurity%20portfolio)
 - **Graded Quiz:** Portfolio Activity: Draft a professional statement
 - Portfolio Activity Exemplar: Draft a professional statement
 ## Review: Cybersecurity tools and programming languages
