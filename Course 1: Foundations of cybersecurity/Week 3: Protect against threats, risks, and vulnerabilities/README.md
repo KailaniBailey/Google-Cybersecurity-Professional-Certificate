@@ -21,5 +21,5 @@
 - **Practice Quiz:** Test your knowledge: Ethics in cybersecurity
 ## Review: Protect against threats, risks, and vulnerabilities
 - Wrap-up
-- Glossary terms from module 3
+- [Glossary terms from module 3](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20cybersecurity/Week%203:%20Protect%20against%20threats,%20risks,%20and%20vulnerabilities/Glossary%20terms%20from%20module%203)
 - **Graded Quiz:** Module 3 challenge
