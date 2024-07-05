@@ -8,7 +8,7 @@
 ## Important cybersecurity tools
 - Welcome to module 4
 - Common cybersecurity tools
-- Tools for protecting business operations
+- [Tools for protecting business operations](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20cybersecurity/Week%204:%20Cybersecurity%20tools%20and%20programming%20languages/Tools%20for%20protecting%20business%20operations)
 - Explore: Tools and their purposes
 - **Practice Quiz:** Test your knowledge: Important cybersecurity tools
 ## Core cybersecurity knowledge and skills
