@@ -24,6 +24,6 @@
 - **Graded Quiz:** Module 4 challenge
 ## Congratulations on completing Course 1!
 - Course wrap-up
-- Course 1 glossary
+- [Course 1 glossary](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%201%3A%20Foundations%20of%20cybersecurity/Week%204%3A%20Cybersecurity%20tools%20and%20programming%20languages/Course%201%20glossary.pdf)
 - Your Course 1 learning journey
 - Get started on the next course
