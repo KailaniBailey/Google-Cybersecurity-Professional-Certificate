@@ -9,7 +9,7 @@
 - Welcome to module 3
 - Introduction to security frameworks and controls
 - Secure design
-- Controls, frameworks, and compliance
+- [Controls, frameworks, and compliance](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201%3A%20Foundations%20of%20cybersecurity/Week%203%3A%20Protect%20against%20threats%2C%20risks%2C%20and%20vulnerabilities/Controls%2C%20frameworks%2C%20and%20compliance)
 - Heather: Protect sensitive data and information
 - **Practice Quiz:** Test your knowledge: Frameworks and controls
 ## Ethics in cybersecurity
