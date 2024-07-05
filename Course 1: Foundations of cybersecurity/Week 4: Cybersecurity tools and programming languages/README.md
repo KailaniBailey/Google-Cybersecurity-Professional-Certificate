@@ -6,8 +6,22 @@
 - Identify commonly used programming languages and how entry-level security analysts interact with those languages
 - Discuss how entry-level security analysts use tools and programming languages to mitigate risk
 ## Important cybersecurity tools
+- Welcome to module 4
+- Common cybersecurity tools
+- Tools for protecting business operations
+- Explore: Tools and their purposes
+- **Practice Quiz:** Test your knowledge: Important cybersecurity tools
 ## Core cybersecurity knowledge and skills
+- Introduction to Linux, SQL, and Python
+- Use tools to protect business operations
+- **Practice Quiz:** Test your knowledge: Core cybersecurity knowledge and skills
+- Create a cybersecurity portfolio
+- **Graded Quiz:** Portfolio Activity: Draft a professional statement
+- Portfolio Activity Exemplar: Draft a professional statement
 ## Review: Cybersecurity tools and programming languages
+- Wrap-up
+- Glossary terms from module 4
+- **Graded Quiz:** Module 4 challenge
 ## Congratulations on completing Course 1!
 - Course wrap-up
 - Course 1 glossary
