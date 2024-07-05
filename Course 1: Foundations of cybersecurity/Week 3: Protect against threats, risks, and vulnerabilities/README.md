@@ -14,7 +14,7 @@
 - **Practice Quiz:** Test your knowledge: Frameworks and controls (100%)
 ## Ethics in cybersecurity
 - Ethics in cybersecurity
-- Ethical concepts that guide cybersecurity decisions
+- [Ethical concepts that guide cybersecurity decisions](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20cybersecurity/Week%203:%20Protect%20against%20threats,%20risks,%20and%20vulnerabilities/Ethical%20concepts%20that%20guide%20cybersecurity%20decisions)
 - Practice: Ethics for cybersecurity professionals
 - Holly: The importance of ethics as a cybersecurity professional
 - Use ethics to make decisions
