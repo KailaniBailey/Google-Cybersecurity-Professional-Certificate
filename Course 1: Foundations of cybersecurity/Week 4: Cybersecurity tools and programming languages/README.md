@@ -21,7 +21,7 @@
 ## Review: Cybersecurity tools and programming languages
 - Wrap-up
 - [Glossary terms from module 4](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20cybersecurity/Week%204:%20Cybersecurity%20tools%20and%20programming%20languages/Glossary%20terms%20from%20module%204)
-- **Graded Quiz:** Module 4 challenge
+- **Graded Quiz:** Module 4 challenge (97.22%)
 ## Congratulations on completing Course 1!
 - Course wrap-up
 - [Course 1 glossary](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%201%3A%20Foundations%20of%20cybersecurity/Week%204%3A%20Cybersecurity%20tools%20and%20programming%20languages/Course%201%20glossary.pdf)
