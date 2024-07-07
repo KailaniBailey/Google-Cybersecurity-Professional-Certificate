@@ -28,8 +28,6 @@ Course 1 of 8 in the Google Cybersecurity Professional Certificate
 - Collaborating with others
 - Identifying threats, risks, and vulnerabilities
 - Problem-solving
-
-## Final Assignment
 ## Final Exam
 # Course 1 Completion Certificate:
 Please [click here] to verify the Google certificate. <br>
