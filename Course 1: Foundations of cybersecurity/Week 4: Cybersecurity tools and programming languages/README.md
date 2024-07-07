@@ -17,7 +17,7 @@
 - **Practice Quiz:** Test your knowledge: Core cybersecurity knowledge and skills
 - [Create a cybersecurity portfolio](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20cybersecurity/Week%204:%20Cybersecurity%20tools%20and%20programming%20languages/Create%20a%20cybersecurity%20portfolio)
 - **Graded Quiz:** [Portfolio Activity: Draft a professional statement](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%201%3A%20Foundations%20of%20cybersecurity/Week%204%3A%20Cybersecurity%20tools%20and%20programming%20languages/Professional%20statement%20outline.pdf)
-- [Portfolio Activity Exemplar: Draft a professional statement](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%201%3A%20Foundations%20of%20cybersecurity/Week%204%3A%20Cybersecurity%20tools%20and%20programming%20languages/Professional%20statement%20exemplar.pdf)
+- [Portfolio Activity Exemplar: Draft a professional statement](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%201%3A%20Foundations%20of%20cybersecurity/Week%204%3A%20Cybersecurity%20tools%20and%20programming%20languages/Professional%20statement%20exemplar.pdf) (100%)
 ## Review: Cybersecurity tools and programming languages
 - Wrap-up
 - [Glossary terms from module 4](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20cybersecurity/Week%204:%20Cybersecurity%20tools%20and%20programming%20languages/Glossary%20terms%20from%20module%204)
