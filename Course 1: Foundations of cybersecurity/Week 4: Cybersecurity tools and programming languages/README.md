@@ -10,7 +10,7 @@
 - Common cybersecurity tools
 - [Tools for protecting business operations](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20cybersecurity/Week%204:%20Cybersecurity%20tools%20and%20programming%20languages/Tools%20for%20protecting%20business%20operations)
 - Explore: Tools and their purposes
-- **Practice Quiz:** Test your knowledge: Important cybersecurity tools
+- **Practice Quiz:** Test your knowledge: Important cybersecurity tools (100%)
 ## Core cybersecurity knowledge and skills
 - Introduction to Linux, SQL, and Python
 - [Use tools to protect business operations](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201:%20Foundations%20of%20cybersecurity/Week%204:%20Cybersecurity%20tools%20and%20programming%20languages/Use%20tools%20to%20protect%20business%20operations)
