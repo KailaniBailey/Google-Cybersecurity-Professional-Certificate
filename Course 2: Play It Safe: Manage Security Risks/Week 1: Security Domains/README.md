@@ -8,6 +8,26 @@
 - Determine how threats, risks, and vulnerabilities impact business operations.
 - Identify the steps of risk management.
 ## Get started with the course
+- Introduction to Course 2
+- Course 2 overview
+- Helpful resources and tips
+- Connect with your classmates
 ## More about the CISSP security domains
+- Welcome to module 1
+- Explore the CISSP security domains, Part 1
+- Explore the CISSP security domains, Part 2
+- Security domains cybersecurity analysts need to know
+- Ashley: My path to cybersecurity
+- Identify: CISSP's eight security domains
+- **Practice Quiz:** Test your knowledge: More about the CISSP security domains
 ## Navigate threats, risks, and vulnerabilities
+- Threats, risks, and vulnerabilities
+- Key impacts of threats, risks, and vulnerabilities
+- Herbert: Manage threats, risks, and vulnerabilities
+- NIST's Risk Management Framework
+- Manage common threats, risks, and vulnerabilities
+- **Practice Quiz:** Test your knowledge: Navigate threats, risks, and vulnerabilities
 ## Review: Security domains
+- Wrap-up
+- Glossary terms from module 1
+- **Graded Quiz:** Module 1 challenge
