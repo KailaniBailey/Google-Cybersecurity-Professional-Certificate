@@ -3,7 +3,7 @@ Course 2 of 8 in the Google Cybersecurity Professional Certificate
 # About This Course
 > In this course, you will take a deeper dive into concepts introduced in the first course, with an emphasis on how cybersecurity professionals use frameworks and controls to protect business operations. In particular, you'll identify the steps of risk management and explore common threats, risks, and vulnerabilities. Additionally, you'll explore Security Information and Event Management (SIEM) data and use a playbook to respond to identified threats, risks, and vulnerabilities. Finally, you will take an important step towards becoming a cybersecurity professional and practice performing a security audit.
 ## Syllabus for Course 2
-- Week 1: Security Domains
+- Week 1: [Security Domains](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%201:%20Security%20Domains)
 - Week 2: Security frameworks and controls
 - Week 3: Introduction to cybersecurity tools
 - Week 4: Use playbooks to respond to incidents
