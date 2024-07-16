@@ -29,5 +29,5 @@
 - **Practice Quiz:** Test your knowledge: Navigate threats, risks, and vulnerabilities
 ## Review: Security domains
 - Wrap-up
-- Glossary terms from module 1
+- [Glossary terms from module 1](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%201:%20Security%20Domains/Glossary%20terms%20from%20module%201)
 - **Graded Quiz:** Module 1 challenge
