@@ -19,7 +19,7 @@
 - [Security domains cybersecurity analysts need to know](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%201:%20Security%20Domains/Security%20domains%20cybersecurity%20analysts%20need%20to%20know)
 - Ashley: My path to cybersecurity
 - Identify: CISSP's eight security domains
-- **Practice Quiz:** Test your knowledge: More about the CISSP security domains
+- **Practice Quiz:** Test your knowledge: More about the CISSP security domains (100%)
 ## Navigate threats, risks, and vulnerabilities
 - Threats, risks, and vulnerabilities
 - Key impacts of threats, risks, and vulnerabilities
