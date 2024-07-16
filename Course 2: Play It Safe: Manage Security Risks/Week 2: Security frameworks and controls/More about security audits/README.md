@@ -24,9 +24,9 @@ To review common compliance regulations that different organizations need to adh
 ## **The role of frameworks and controls in audits**
 Along with compliance, it’s important to mention the role of frameworks and controls in security audits. Frameworks such as the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF) and the international standard for information security (ISO 27000) series are designed to help organizations prepare for regulatory compliance security audits. By adhering to these and other relevant frameworks, organizations can save time when conducting external and internal audits. Additionally, frameworks, when used alongside controls, can support organizations’ ability to align with regulatory compliance requirements and standards.  
 
-There are three main categories of controls to review during an audit, which are administrative and/or managerial, technical, and physical controls. To learn more about specific controls related to each category, click the following link and select “Use Template.” 
+There are three main categories of controls to review during an audit, which are administrative and/or managerial, technical, and physical controls. To learn more about specific controls related to each category, click the following link.
 
-Link to template: Control categories
+Link: [Control categories](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%202%3A%20Play%20It%20Safe%3A%20Manage%20Security%20Risks/Week%202%3A%20Security%20frameworks%20and%20controls/Control%20categories.pdf)
 
 ## **Audit checklist**
 It’s necessary to create an audit checklist before conducting an audit. A checklist is generally made up of the following areas of focus:
