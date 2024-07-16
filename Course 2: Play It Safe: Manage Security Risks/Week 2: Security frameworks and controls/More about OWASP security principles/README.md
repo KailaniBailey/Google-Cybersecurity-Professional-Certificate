@@ -1,6 +1,6 @@
 # More about OWASP security principles
 ## **Security principles**
-In the workplace, security principles are embedded in your daily tasks. Whether you are analyzing logs, monitoring a security information and event management (SIEM) dashboard, or using a vulnerability scanner, you will use these principles in some way. 
+In the workplace, security principles are embedded in your daily tasks. Whether you are analyzing logs, monitoring a security information and event management (SIEM) dashboard, or using a [vulnerability scanner](https://csrc.nist.gov/glossary/term/vulnerability_scanner), you will use these principles in some way. 
 
 Previously, you were introduced to several OWASP security principles. These included:
 - Minimize attack surface area: Attack surface refers to all the potential vulnerabilities a threat actor could exploit.
@@ -23,7 +23,7 @@ Fail securely means that when a control fails or stops, it should do so by defau
 Many organizations work with third-party partners. These outside partners often have different security policies than the organization does. And the organization shouldn’t explicitly trust that their partners’ systems are secure. For example, if a third-party vendor tracks reward points for airline customers, the airline should ensure that the balance is accurate before sharing that information with their customers.
 
 ### **Avoid security by obscurity**
-The security of key systems should not rely on keeping details hidden. Consider the following example from OWASP (2016): OWASP Mobile Top 10
+The security of key systems should not rely on keeping details hidden. Consider the following example from OWASP (2016): [OWASP Mobile Top 10](https://owasp.org/www-project-mobile-top-10/2016-risks/)
 
 The security of an application should not rely on keeping the source code secret. Its security should rely upon many other factors, including reasonable password policies, defense in depth, business transaction limits, solid network architecture, and fraud and audit controls.
 
