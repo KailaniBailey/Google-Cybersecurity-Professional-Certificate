@@ -31,8 +31,8 @@
 - Complete a security audit
 - [More about security audits](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%202:%20Security%20frameworks%20and%20controls/More%20about%20security%20audits)
 - **Practice Quiz:** Test your knowledge: OWASP principles and security audits
-- **Graded Quiz:** Portfolio Activity: Conduct a security audit
-- Portfolio Activity Exemplar: Conduct a security audit
+- **Graded Quiz:** Portfolio Activity: Conduct a security audit (100%)
+- [Portfolio Activity Exemplar: Conduct a security audit](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%202%3A%20Play%20It%20Safe%3A%20Manage%20Security%20Risks/Week%202%3A%20Security%20frameworks%20and%20controls/Controls%20and%20compliance%20checklist%20exemplar.pdf)
 ## Review: Security frameworks and controls
 - Wrap-up
 - [Glossary terms from module 2](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%202:%20Security%20frameworks%20and%20controls/Glossary%20terms%20from%20module%202)
