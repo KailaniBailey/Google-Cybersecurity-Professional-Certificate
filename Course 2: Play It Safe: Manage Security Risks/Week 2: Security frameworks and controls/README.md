@@ -12,7 +12,7 @@
 - Welcome to module 2
 - Frameworks
 - Controls
-- The relationship between frameworks and controls
+- [The relationship between frameworks and controls](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%202:%20Security%20frameworks%20and%20controls/The%20relationship%20between%20frameworks%20and%20controls)
 - **Practice Quiz:** Test your knowledge: More about frameworks and controls
 ## The CIA triad: Confidentiality, integrity, and availability
 - Explore the CIA triad
