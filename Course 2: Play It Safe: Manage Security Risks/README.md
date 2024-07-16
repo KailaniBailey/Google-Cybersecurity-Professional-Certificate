@@ -6,7 +6,7 @@ Course 2 of 8 in the Google Cybersecurity Professional Certificate
 - Week 1: [Security Domains](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%201:%20Security%20Domains)
 - Week 2: [Security frameworks and controls](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%202:%20Security%20frameworks%20and%20controls)
 - Week 3: [Introduction to cybersecurity tools](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%203:%20Introduction%20to%20cybersecurity%20tools)
-- Week 4: [Use playbooks to respond to incidents]
+- Week 4: [Use playbooks to respond to incidents](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%204:%20Use%20playbooks%20to%20respond%20to%20incidents)
 ## Summary of Tasks
 - Recognize and explain the focus of eight security domains
 - Identify the steps of risk management
