@@ -60,5 +60,5 @@ Although there is much more to learn about security audits, this introduction is
 
 ## **Resources for more information**
 Resources that you can explore to further develop your understanding of audits in the cybersecurity space are: 
-- Assessment and Auditing Resources
-- IT Disaster Recovery Plan
+- [Assessment and Auditing Resources](https://www.nist.gov/cyberframework/assessment-auditing-resources)
+- [IT Disaster Recovery Plan](https://www.ready.gov/business/emergency-plans/recovery-plan)
