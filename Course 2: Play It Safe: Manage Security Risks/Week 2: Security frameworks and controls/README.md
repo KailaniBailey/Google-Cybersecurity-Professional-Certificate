@@ -16,7 +16,7 @@
 - **Practice Quiz:** Test your knowledge: More about frameworks and controls
 ## The CIA triad: Confidentiality, integrity, and availability
 - Explore the CIA triad
-- Use the CIA triad to protect organizations
+- [Use the CIA triad to protect organizations](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%202:%20Security%20frameworks%20and%20controls/Use%20the%20CIA%20triad%20to%20protect%20organizations)
 - Practice: Use the CIA triad in workplace situations
 - **Practice Quiz:** Test your knowledge: The CIA triad
 ## NIST frameworks
