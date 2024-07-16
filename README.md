@@ -12,7 +12,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 **Additional Info:** Please scroll down to view the employer-recognized Cybersecurity Professional Certificate from Google and verification link.
 
 # Completed Courses and Certificates
-- **Course 1:** [Foundations of Cybersecurity](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201%3A%20Foundations%20of%20Cybersecurity)
+- **Course 1:** [Foundations of Cybersecurity](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%201%3A%20Foundations%20of%20cybersecurity)
 - **Course 2:** [Play It Safe: Manage Security Risks](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202%3A%20Play%20It%20Safe%3A%20Manage%20Security%20Risks)
 - **Course 3:** [Connect and Protect: Networks and Network Security](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203%3A%20Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security)
 - **Course 4:** [Tools of the Trade: Linux and SQL](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204%3A%20Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL)
