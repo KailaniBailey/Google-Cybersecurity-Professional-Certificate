@@ -25,7 +25,7 @@
 - **Practice Quiz:** Test your knowledge: NIST frameworks
 ## OWASP principles and security audits
 - OWASP security principles
-- More about OWASP security principles
+- [More about OWASP security principles](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202%3A%20Play%20It%20Safe%3A%20Manage%20Security%20Risks/Week%202%3A%20Security%20frameworks%20and%20controls)
 - Wajih: Stay up-to-date on the latest cybersecurity threats
 - Plan a security audit
 - Complete a security audit
