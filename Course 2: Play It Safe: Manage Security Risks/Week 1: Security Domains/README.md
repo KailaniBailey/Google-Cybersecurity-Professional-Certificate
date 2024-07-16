@@ -26,7 +26,7 @@
 - Herbert: Manage threats, risks, and vulnerabilities
 - NIST's Risk Management Framework
 - [Manage common threats, risks, and vulnerabilities](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%201:%20Security%20Domains/Manage%20common%20threats,%20risks,%20and%20vulnerabilities)
-- **Practice Quiz:** Test your knowledge: Navigate threats, risks, and vulnerabilities
+- **Practice Quiz:** Test your knowledge: Navigate threats, risks, and vulnerabilities (100%)
 ## Review: Security domains
 - Wrap-up
 - [Glossary terms from module 1](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%201:%20Security%20Domains/Glossary%20terms%20from%20module%201)
