@@ -12,4 +12,9 @@
 - Parisa: The parallels of accessibility and security
 - **Practice Quiz:** Test your knowledge: Security information and event management (SIEM) dashboards
 ## Explore security information and event management (SIEM) tools
+- Explore common SIEM tools
+- More about cybersecurity tools
+- Talya: Myths about the cybersecurity field
+- Use SIEM tools to protect organizations
+- **Practice Quiz:** Test your knowledge: Identify threats and vulnerabilities with SIEM tools
 ## Review: Introduction to cybersecurity tools
