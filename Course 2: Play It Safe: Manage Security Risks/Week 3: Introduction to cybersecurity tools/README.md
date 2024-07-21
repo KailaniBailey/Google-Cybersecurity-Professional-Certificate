@@ -5,5 +5,11 @@
 - Describe how SIEM tools are used to protect business operations.
 - Explain how entry-level security analysts use SIEM dashboards.
 ## Security information and event management (SIEM) dashboards
+- Welcome to module 3
+- Logs and SIEM tools
+- SIEM dashboards
+- The future of SIEM tools
+- Parisa: The parallels of accessibility and security
+- **Practice Quiz:** Test your knowledge: Security information and event management (SIEM) dashboards
 ## Explore security information and event management (SIEM) tools
 ## Review: Introduction to cybersecurity tools
