@@ -13,16 +13,16 @@
 - Frameworks
 - Controls
 - [The relationship between frameworks and controls](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%202:%20Security%20frameworks%20and%20controls/The%20relationship%20between%20frameworks%20and%20controls)
-- **Practice Quiz:** Test your knowledge: More about frameworks and controls
+- **Practice Quiz:** Test your knowledge: More about frameworks and controls (100%)
 ## The CIA triad: Confidentiality, integrity, and availability
 - Explore the CIA triad
 - [Use the CIA triad to protect organizations](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%202:%20Security%20frameworks%20and%20controls/Use%20the%20CIA%20triad%20to%20protect%20organizations)
 - Practice: Use the CIA triad in workplace situations
-- **Practice Quiz:** Test your knowledge: The CIA triad
+- **Practice Quiz:** Test your knowledge: The CIA triad (100%)
 ## NIST frameworks
 - NIST frameworks
 - Explore the five functions of the NIST Cybersecurity Framework
-- **Practice Quiz:** Test your knowledge: NIST frameworks
+- **Practice Quiz:** Test your knowledge: NIST frameworks (100%)
 ## OWASP principles and security audits
 - OWASP security principles
 - [More about OWASP security principles](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202%3A%20Play%20It%20Safe%3A%20Manage%20Security%20Risks/Week%202%3A%20Security%20frameworks%20and%20controls)
