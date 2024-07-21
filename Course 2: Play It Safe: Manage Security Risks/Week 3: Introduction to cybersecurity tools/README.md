@@ -18,3 +18,6 @@
 - Use SIEM tools to protect organizations
 - **Practice Quiz:** Test your knowledge: Identify threats and vulnerabilities with SIEM tools
 ## Review: Introduction to cybersecurity tools
+- Wrap-up
+- Glossary terms from module 3
+- **Graded Quiz:** MOdule 3 challenge
