@@ -21,3 +21,5 @@
 - Glossary terms from module 4
 - **Graded Quiz:** Module 4 challenge
 ## Congratulations on completing Course 2!
+- Course wrap-up
+- Course 2 glossary
