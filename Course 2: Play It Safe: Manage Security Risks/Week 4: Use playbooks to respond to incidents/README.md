@@ -17,4 +17,7 @@
 - Practice: Respond to a SIEM alert
 - **Practice Quiz:** Test your knowledge: Use a playbook to respond to an incident
 ## Review: Use playbooks to respond to incidents
+- Wrap-up
+- Glossary terms from module 4
+- **Graded Quiz:** Module 4 challenge
 ## Congratulations on completing Course 2!
