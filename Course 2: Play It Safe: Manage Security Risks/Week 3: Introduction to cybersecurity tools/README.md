@@ -8,7 +8,7 @@
 - Welcome to module 3
 - Logs and SIEM tools
 - SIEM dashboards
-- The future of SIEM tools
+- [The future of SIEM tools](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%203:%20Introduction%20to%20cybersecurity%20tools/The%20future%20of%20SIEM%20tools)
 - Parisa: The parallels of accessibility and security
 - **Practice Quiz:** Test your knowledge: Security information and event management (SIEM) dashboards
 ## Explore security information and event management (SIEM) tools
