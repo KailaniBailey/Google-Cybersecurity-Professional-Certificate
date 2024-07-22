@@ -22,4 +22,4 @@
 - **Graded Quiz:** Module 4 challenge
 ## Congratulations on completing Course 2!
 - Course wrap-up
-- [Course 2 glossary]
+- [Course 2 glossary](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%202%3A%20Play%20It%20Safe%3A%20Manage%20Security%20Risks/Week%204%3A%20Use%20playbooks%20to%20respond%20to%20incidents/Course%202%20glossary.pdf)
