@@ -18,6 +18,10 @@ Course 3 of 8 in the Google Cybersecurity Professional Certificate
 > - Compare and contrast local networks to cloud computing.
 > - Explain the different types of system hardening techniques.
 ## Syllabus for Course 3
+- Week 1: Network architecture
+- Week 2: Network operations
+- Week 3: Secure against network intrusions
+- Week 4: Security hardening
 ## Summary of Tasks
 - Define types of networks
 - Explain how data is sent and received over a network
