@@ -6,7 +6,7 @@
 ## Phases of incident response playbooks
 - Welcome tom module 4
 - Phases of an incident reponse playbook
-- More about playbooks
+- [More about playbooks](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%204:%20Use%20playbooks%20to%20respond%20to%20incidents/More%20about%20playbooks)
 - Identify: Phases of an incident response playbook
 - Zack: Incident response and the value of playbooks
 - **Practice Quiz:** Test your knowledge: Incident reponse
