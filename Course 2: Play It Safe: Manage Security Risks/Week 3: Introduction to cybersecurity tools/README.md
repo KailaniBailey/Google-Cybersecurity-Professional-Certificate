@@ -15,7 +15,7 @@
 - Explore common SIEM tools
 - [More about cybersecurity tools](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%203:%20Introduction%20to%20cybersecurity%20tools/More%20about%20cybersecurity%20tools)
 - Talya: Myths about the cybersecurity field
-- Use SIEM tools to protect organizations
+- [Use SIEM tools to protect organizations](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%203:%20Introduction%20to%20cybersecurity%20tools/Use%20SIEM%20tools%20to%20protect%20organizations)
 - **Practice Quiz:** Test your knowledge: Identify threats and vulnerabilities with SIEM tools
 ## Review: Introduction to cybersecurity tools
 - Wrap-up
