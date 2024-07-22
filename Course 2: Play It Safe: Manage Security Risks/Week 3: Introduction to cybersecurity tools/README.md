@@ -13,7 +13,7 @@
 - **Practice Quiz:** Test your knowledge: Security information and event management (SIEM) dashboards
 ## Explore security information and event management (SIEM) tools
 - Explore common SIEM tools
-- More about cybersecurity tools
+- [More about cybersecurity tools](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%203:%20Introduction%20to%20cybersecurity%20tools/More%20about%20cybersecurity%20tools)
 - Talya: Myths about the cybersecurity field
 - Use SIEM tools to protect organizations
 - **Practice Quiz:** Test your knowledge: Identify threats and vulnerabilities with SIEM tools
