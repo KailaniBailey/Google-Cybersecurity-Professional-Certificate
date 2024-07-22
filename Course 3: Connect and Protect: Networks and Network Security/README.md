@@ -20,7 +20,7 @@ Course 3 of 8 in the Google Cybersecurity Professional Certificate
 ## Syllabus for Course 3
 - Week 1: [Network architecture](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%201:%20Network%20architecture)
 - Week 2: [Network operations](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%202:%20Network%20operations)
-- Week 3: Secure against network intrusions
+- Week 3: [Secure against network intrusions](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%203:%20Secure%20against%20network%20intrusions)
 - Week 4: Security hardening
 ## Summary of Tasks
 - Define types of networks
