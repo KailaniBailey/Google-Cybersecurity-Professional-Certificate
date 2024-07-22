@@ -18,8 +18,8 @@
 - **Practice Quiz:** Test your knowledge: Use a playbook to respond to an incident
 ## Review: Use playbooks to respond to incidents
 - Wrap-up
-- Glossary terms from module 4
+- [Glossary terms from module 4](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%204:%20Use%20playbooks%20to%20respond%20to%20incidents/Glossary%20terms%20from%20module%204)
 - **Graded Quiz:** Module 4 challenge
 ## Congratulations on completing Course 2!
 - Course wrap-up
-- Course 2 glossary
+- [Course 2 glossary]
