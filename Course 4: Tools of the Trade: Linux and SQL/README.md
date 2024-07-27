@@ -1,4 +1,4 @@
-# Tools of the Trade: Linus and SQL
+# Tools of the Trade: Linux and SQL
 Course 4 of 8 in the Google Cybersecurity Professional Certificate
 # About This Course
 ## Syllabus for Course 4
