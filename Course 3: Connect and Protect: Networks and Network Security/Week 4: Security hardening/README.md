@@ -6,7 +6,14 @@
 - Describe network hardening techniques
 - Explain cloud security practices
 ## Introduction to security hardening
+- Welcome to module 4
+- Security hardening
 ## OS hardening
+- OS hardening practices
+- Brute force attacks and OS hardening
+- **Practice Quiz:** Activity: Apply OS hardening techniques
+- Activity Exemplar: Apply OS hardening techniques
+- **Practice Quiz:** Test your knowledge: OS hardening
 ## Network hardening
 ## Cloud hardening
 ## Review: Security hardening
