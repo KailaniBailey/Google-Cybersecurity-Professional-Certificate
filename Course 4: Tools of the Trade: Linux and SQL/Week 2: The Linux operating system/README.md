@@ -14,5 +14,22 @@
 - Explore: Components of the Linux OS
 - **Practice Quiz:** Test your knowledge: All about Linux
 ## Linux distributions
+- KALI LINUX
+- More Linux distributions
+- Package managers for installing applications
+- Resources for completing Linux labs
+- Lab tips and troubleshooting steps
+- Optional Exemplar: Install software in a Linux distribution
+- **Practice Quiz:** Test your knowledge: Linux distributions
 ## The shell
+- Introduction to the shell
+- Different types of shells
+- Input and output in the shell
+- Activity: Examine input and output in the shell
+- Optional Exemplar: Examine input and output in the shell
+- **Practice Quiz:** Test your knowledge: The shell
+- Strategies to learn new skills
 ## Review: The Linux operating system
+- Wrap-up
+- Glossary terms from module 2
+- **Graded Quiz:** Module 2 challenge
