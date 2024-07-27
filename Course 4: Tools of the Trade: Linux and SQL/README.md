@@ -3,7 +3,7 @@ Course 4 of 8 in the Google Cybersecurity Professional Certificate
 # About This Course
 ## Syllabus for Course 4
 - Week 1: [Introduction to operating systems](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%201:%20Introduction%20to%20operating%20systems)
-- Week 2: The Linux operating system
+- Week 2: [The Linux operating system](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%202:%20The%20Linux%20operating%20system)
 - Week 3: Linux commands in the Bash shell
 - Week 4: Databases and SQL
 ## Summary of Tasks
