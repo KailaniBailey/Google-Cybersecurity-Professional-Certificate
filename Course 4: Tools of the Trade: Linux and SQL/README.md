@@ -2,6 +2,10 @@
 Course 4 of 8 in the Google Cybersecurity Professional Certificate
 # About This Course
 ## Syllabus for Course 4
+- Week 1: Introduction to operating systems
+- Week 2: The Linux operating system
+- Week 3: Linux commands in the Bash shell
+- Week 4: Databases and SQL
 ## Summary of Tasks
 - Describe the main functions of an operating system
 - Explain the relationship between operating systems, applications, and hardware
