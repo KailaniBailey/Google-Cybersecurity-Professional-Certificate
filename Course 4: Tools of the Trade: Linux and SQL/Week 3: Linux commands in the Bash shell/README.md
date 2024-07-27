@@ -8,7 +8,48 @@
 - Use sudo to provide root user permissions.
 - Access resources that provide support on using Linux commands.
 ## Navigate the Linux file system
+- Welcome to module 3
+- Linux commands via the Bash shell
+- Core commands for navigation and reading files
+- Navigate Linux and read file content
+- Activity: Find files with Linux commands
+- Optional Exemplar: Find files with Linux commands
+- **Practice Quiz:** Test your knowledge: Navigate the Linux file system in Bash
 ## Manage file content in Bash
+- Find what you need with Linux
+- Filter content in Linux
+- Activity: Filter with grep
+- Optional Exemplar: Filter with grep
+- Create and modify directories and files
+- Manage directories and files
+- Identify: Key Linux commands
+- Activity: Manage files and Linux commands
+- Optional Exemplar: Manage files with Linux commands
+- **Practice Quiz:** Test your knowledge: Manage file content in Bash
 ## Authenticate and authorize users
+- File permissions and ownership
+- Change permissions
+- Permission commands
+- Activity: Manage authorization
+- Optional Exemplar: Manage authorization
+- **Graded Quiz:** Portfolio Activity: Use Linux commands to manage file permissions
+- Portfolio Activity Exemplar: Use Linux commands to manage file permissions
+- Add and delete users
+- Responsible use of sudo
+- Activity: Add and manage users with Linux commands
+- Optional Exemplar: Add and manage users with Linux commands
+- **Practice Quiz:** Test your knowledge: Authenticate and authorize users
 ## Get help in Linux
+- Damar: My journey into Linux commands
+- The Linux community
+- Man pages within the shell
+- Linux resources
+- ActivityL Get help in the command line
+- Optional Exemplar: Get help in the command line
+- Apply Linux commands as a cybersecurity professional
+- **Practice Quiz:** Test your knowledge: Get help in Linux
 ## Review: Linux commands in the Bash shell
+- Wrap-up
+- Reference guide: Linux
+- Glossary terms from module 3
+- **Graded Quiz:** Module 3 challenge
