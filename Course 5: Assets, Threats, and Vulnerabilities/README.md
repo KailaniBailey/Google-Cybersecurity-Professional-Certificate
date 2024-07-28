@@ -3,7 +3,7 @@ Course 5 of 8 in the Google Cybersecurity Professional Certificate
 # About This Course
 ## Syllabus for Course 5
 - Week 1: [Introduction to asset security](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%201:%20Introduction%20to%20asset%20security)
-- Week 2: Protect organizational assets
+- Week 2: [Protect organizational assets](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%202:%20Protect%20organizational%20assets)
 - Week 3: Vulnerabilities in systems
 - Week 4: Threats to asset security
 ## Summary of Tasks
