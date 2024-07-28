@@ -20,4 +20,4 @@
 ## Review: Introduction to cybersecurity tools
 - Wrap-up
 - [Glossary terms from module 3](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%202:%20Play%20It%20Safe:%20Manage%20Security%20Risks/Week%203:%20Introduction%20to%20cybersecurity%20tools/Glossary%20terms%20from%20module%203)
-- **Graded Quiz:** MOdule 3 challenge
+- **Graded Quiz:** Module 3 challenge
