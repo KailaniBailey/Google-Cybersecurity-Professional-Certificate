@@ -23,5 +23,19 @@
 - **Practice Quiz:** Activity: Classify the assets connected to a home network
 - Activity Exemplar: Classify the assets connected to a home network
 ## Digital and physical assets
+- Assets in a digital world
+- The challenges of securing digital devices
+- Identify: States of data in the workplace
+- The emergence of cloud security
+- **Practice Quiz:** Test your knowledge: Digital and physical assets
 ## Risk and asset security
+- Elements of a security plan
+- The NIST Cybersecurity Framework
+- Security guidelines in action
+- **Practice Quiz:** Test your knowledge: Risk and asset security
+- **Practice Quiz:** Activity: Score risks based on their likelihood and severity
+- Activity Exemplar: Score risks based on their likelihood and severity
 ## Review: Introduction to asset security
+- Wrap-up
+- Glossary terms from module 1
+- **Graded Quiz:** Module 1 challenge
