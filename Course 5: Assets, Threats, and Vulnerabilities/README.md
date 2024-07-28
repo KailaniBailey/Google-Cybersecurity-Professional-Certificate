@@ -2,6 +2,10 @@
 Course 5 of 8 in the Google Cybersecurity Professional Certificate
 # About This Course
 ## Syllabus for Course 5
+- Week 1: Introduction to asset security
+- Week 2: Protect organizational assets
+- Week 3: Vulnerabilities in systems
+- Week 4: Threats to asset security
 ## Summary of Tasks
 - Explain security's role in mitigating organizational risk
 - Describe the defense in depth strategy
