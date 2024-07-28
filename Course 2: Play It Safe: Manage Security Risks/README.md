@@ -18,8 +18,6 @@ Course 2 of 8 in the Google Cybersecurity Professional Certificate
 - Applying the CIA triad to workplace situations
 - Analyzing log data
 - Identifying the phases of an incident response playbook
-## Final Assignment
-## Final Exam
-# Course 2 Completion Certificate:![
+# Course 2 Completion Certificate:
 ![Course 2](https://github.com/user-attachments/assets/845932f3-da18-4499-a0cc-530573cd4abe) <br>
 Please [click here](https://coursera.org/share/fc9144e3de0ccc236933e72d6a174b13) to verify the Google certificate. <br>
