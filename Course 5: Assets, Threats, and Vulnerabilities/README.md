@@ -5,7 +5,7 @@ Course 5 of 8 in the Google Cybersecurity Professional Certificate
 - Week 1: [Introduction to asset security](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%201:%20Introduction%20to%20asset%20security)
 - Week 2: [Protect organizational assets](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%202:%20Protect%20organizational%20assets)
 - Week 3: [Vulnerabilities in systems](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%203:%20Vulnerabilities%20in%20systems)
-- Week 4: Threats to asset security
+- Week 4: [Threats to asset security](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%204:%20Threats%20to%20asset%20security)
 ## Summary of Tasks
 - Explain security's role in mitigating organizational risk
 - Describe the defense in depth strategy
