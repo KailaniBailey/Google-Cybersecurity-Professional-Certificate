@@ -7,8 +7,50 @@
 - Apply filters to SQL queries.
 - Use SQL joins to combine multiple tables into a query.
 ## Introduction to SQL and Databases
+- Welcome to module 4
+- Introduction to databases
+- Query databases with SQL
+- SQL filtering versus Linux filtering
+- Adedayo: SQL in cybersecurity
+- **Practice Quiz:** Test your knowledge: SQL and databases
 ## SQL queries
+- Basic queries
+- Query a database
+- Resources for completing SQL labs
+- Activity: Perform a SQL query
+- Optional Exemplar: Perform a SQL query
+- Basic filters on SQL queries
+- The WHERE clause and basic operators
+- Activity: Filter a SQL query
+- Optional Exemplar: Filter a SQL query
+- **Practice Quiz:** Test your knowledge: SQL queries
 ## More SQL filters
+- Filter dates and numbers
+- Operators for filtering dates and numbers
+- Activity: Apply more filters in SQL
+- Optional Exemplar: Apply more filters in SQL
+- Filters with AND, OR, and NOT
+- More on filters with AND, OR, and NOT
+- Activity: Filter with AND, OR, and NOT
+- Optional Exemplar: Filter with AND, OR, and NOT
+- **Graded Quiz:** Portfolio Activity: Apply filters to SQL queries
+- Portfolio Activity Exemplar: Apply filters to SQL queries
+- **Practice Quiz:** Test your knowledge: More SQL filters
 ## SQL joins
+- Join tables in SQL
+- Types of joins
+- Compare types of joins
+- Identify: Choose the appropriate type of join
+- Activity: Complete a join
+- Optional Exemplar: Complete a join
+- **Practice Quiz:** Test your knowledge: SQL joins
+- Continuous learning in SQL
+- SQL and the security analyst
 ## Review: Databases and SQL
+- Wrap-up
+- Reference guide: SQL
+- Glossary terms from module 4
+- **Graded Quiz:** Module 1 challenge
 ## Congratulations on completing Course 4!
+-Course wrap-up
+Course 4 glossary
