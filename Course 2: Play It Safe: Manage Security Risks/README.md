@@ -1,4 +1,4 @@
-![Course 2](https://github.com/user-attachments/assets/845932f3-da18-4499-a0cc-530573cd4abe)# Play It Safe: Manage Security Risks
+# Play It Safe: Manage Security Risks
 Course 2 of 8 in the Google Cybersecurity Professional Certificate
 # About This Course
 > In this course, you will take a deeper dive into concepts introduced in the first course, with an emphasis on how cybersecurity professionals use frameworks and controls to protect business operations. In particular, you'll identify the steps of risk management and explore common threats, risks, and vulnerabilities. Additionally, you'll explore Security Information and Event Management (SIEM) data and use a playbook to respond to identified threats, risks, and vulnerabilities. Finally, you will take an important step towards becoming a cybersecurity professional and practice performing a security audit.
@@ -21,6 +21,5 @@ Course 2 of 8 in the Google Cybersecurity Professional Certificate
 ## Final Assignment
 ## Final Exam
 # Course 2 Completion Certificate:![
-Uploading Course 2.png…]()
+![Course 2](https://github.com/user-attachments/assets/845932f3-da18-4499-a0cc-530573cd4abe) <br>
 Please [click here](https://coursera.org/share/fc9144e3de0ccc236933e72d6a174b13) to verify the Google certificate. <br>
-*Coming Soon...*
