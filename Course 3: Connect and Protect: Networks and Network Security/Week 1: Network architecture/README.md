@@ -18,7 +18,7 @@
 - Tina: Working in network security
 - Emmanuel: Useful skills for network security
 - Network tools
-- Network components, devices, and diagrams
+- [Network components, devices, and diagrams](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%201:%20Network%20architecture/Network%20components,%20devices,%20and%20diagrams)
 - Practice: Design a local area network
 - Cloud networks
 - Cloud computing and software-defined networks
