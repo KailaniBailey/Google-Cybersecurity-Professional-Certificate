@@ -21,7 +21,7 @@
 - [Network components, devices, and diagrams](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%201:%20Network%20architecture/Network%20components,%20devices,%20and%20diagrams)
 - Practice: Design a local area network
 - Cloud networks
-- Cloud computing and software-defined networks
+- [Cloud computing and software-defined networks](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%201:%20Network%20architecture/Cloud%20computing%20and%20software-defined%20networks)
 - Identify: Functions of network tools
 - **Practice Quiz:** Test your knowledge: Introduction to networks
 ## Network communication
