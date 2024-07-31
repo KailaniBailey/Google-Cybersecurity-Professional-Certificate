@@ -28,7 +28,7 @@
 - Introduction to network communication
 - The TCP/IP model
 - The four layers of the TCP/IP model
-- Learn more about the TCP/IP model
+- [Learn more about the TCP/IP model](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%201:%20Network%20architecture/Learn%20more%20about%20the%20TCP-IP%20model)
 - The OSI model
 - **Practice Quiz:** Test your knowledge: Network Communication
 ## Local and wide network communication
