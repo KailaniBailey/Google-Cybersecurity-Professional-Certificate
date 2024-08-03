@@ -13,7 +13,7 @@
 - [Connect with your classmates](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%201:%20Network%20architecture/Connect%20with%20your%20classmates)
 ## Introduction to networks
 - Welcome to module 1
-- Christ: My path to cybersecurity
+- Chris: My path to cybersecurity
 - What are networks?
 - Tina: Working in network security
 - Emmanuel: Useful skills for network security
