@@ -22,7 +22,7 @@
 - Practice: Design a local area network
 - Cloud networks
 - [Cloud computing and software-defined networks](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%201:%20Network%20architecture/Cloud%20computing%20and%20software-defined%20networks)
-- Identify: Functions of network tools
+- [Identify: Functions of network tools](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%201:%20Network%20architecture/Identify:%20Functions%20of%20network%20tools)
 - **Practice Quiz:** Test your knowledge: Introduction to networks
 ## Network communication
 - Introduction to network communication
