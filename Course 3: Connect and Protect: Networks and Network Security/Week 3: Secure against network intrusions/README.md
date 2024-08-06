@@ -21,7 +21,7 @@
 ## Network attack tactics and defense
 - Malicious packet sniffing
 - IP Spoofing
-- Overview of interception tactics
+- [Overview of interception tactics](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%203:%20Secure%20against%20network%20intrusions/Overview%20of%20interception%20tactics)
 - Identify: Network attacks
 - **Practice Quiz:** Activity: Analyze network attacks
 - Activity Exemplar: Analyze network attacks
