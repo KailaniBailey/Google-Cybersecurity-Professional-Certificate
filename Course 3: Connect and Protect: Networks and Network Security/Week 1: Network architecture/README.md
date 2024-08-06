@@ -33,7 +33,7 @@
 - **Practice Quiz:** Test your knowledge: Network Communication (100%)
 ## Local and wide network communication
 - IP addresses and network communication
-- Components of network layer communication
+- [Components of network layer communication](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203%3A%20Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/Week%201%3A%20Network%20architecture/Components%20of%20network%20layer%20communication)
 - **Practice Quiz:** Test your knowledge: Local and wide network communication
 ## Review: Network architecture
 - Wrap-up
