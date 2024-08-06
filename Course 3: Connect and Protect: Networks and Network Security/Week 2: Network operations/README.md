@@ -9,7 +9,7 @@
 - Welcome to module 2
 - Network protocols
 - [Common network protocols](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%202:%20Network%20operations/Common%20network%20protocols)
-- Additional network protocols
+- [Additional network protocols](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%202:%20Network%20operations/Additional%20network%20protocols)
 - Antara: Working in network security
 - Wireless protocols
 - The evolution of wireless security protocols
