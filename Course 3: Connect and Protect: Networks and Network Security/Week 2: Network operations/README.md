@@ -8,7 +8,7 @@
 ## Introduction to network protocols
 - Welcome to module 2
 - Network protocols
-- Common network protocols
+- [Common network protocols](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%202:%20Network%20operations/Common%20network%20protocols)
 - Additional network protocols
 - Antara: Working in network security
 - Wireless protocols
