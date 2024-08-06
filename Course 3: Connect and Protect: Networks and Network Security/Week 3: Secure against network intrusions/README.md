@@ -9,7 +9,7 @@
 ## Introduction to network intrusion tactics
 - Welcome to module 3
 - The case for securing networks
-- How intrusions compromise your system
+- [How intrusions compromise your system](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%203:%20Secure%20against%20network%20intrusions/How%20intrusions%20compromise%20your%20system)
 - Matt: A professional on dealing with attacks
 ## Secure networks against Denial of Service (DoS) attacks
 - Denial of Service (DoS) attacks
