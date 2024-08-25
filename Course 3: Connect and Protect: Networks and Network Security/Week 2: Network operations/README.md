@@ -18,7 +18,7 @@
 - Firewalls and network security measures
 - Virtual private networks (VPNs)
 - Security zones
-- Subnetting and CIDR
+- [Subnetting and CIDR](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203%3A%20Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/Week%202%3A%20Network%20operations/Subnetting%20and%20CIDR)
 - Proxy servers
 - [Virtual networks and privacy](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%202:%20Network%20operations/Virtual%20networks%20and%20privacy)
 - [VPN protocols: Wireguard and IPSec](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%202:%20Network%20operations/VPN%20protocols:%20Wireguard%20and%20IPSec)
