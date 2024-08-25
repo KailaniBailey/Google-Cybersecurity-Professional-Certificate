@@ -16,7 +16,7 @@
 - **Practice Quiz:** Test your knowledge: OS hardening
 ## Network hardening
 - Network hardening practices
-- Network security applications
+- [Network security applications](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%204:%20Security%20hardening/Network%20security%20applications)
 - **Practice Quiz:** Activity: Analysis of network hardening
 - Activity Exemplar: Analysis of network hardening
 - **Practice Quiz:** Test your knowledge: Network hardening
