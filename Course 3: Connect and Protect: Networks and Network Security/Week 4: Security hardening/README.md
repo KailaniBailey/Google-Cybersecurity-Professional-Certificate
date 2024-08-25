@@ -23,7 +23,7 @@
 ## Cloud hardening
 - Network security in the cloud
 - Kelsey: Cloud security explained
-- Secure the cloud
+- [Secure the cloud](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%204:%20Security%20hardening/Secure%20the%20cloud)
 - Cryptography and cloud security
 - **Practice Quiz:** Test your knowledge: Cloud hardening
 ## Review: Security hardening
