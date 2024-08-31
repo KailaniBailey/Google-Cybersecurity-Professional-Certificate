@@ -26,4 +26,4 @@
 ## Review: Network operations
 - Wrap-up
 - [Glossary terms from module 2](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%202:%20Network%20operations/Glossary%20terms%20from%20module%202)
-- **Graded Quiz:** Module 2 challenge
+- **Graded Quiz:** Module 2 challenge (100%)
