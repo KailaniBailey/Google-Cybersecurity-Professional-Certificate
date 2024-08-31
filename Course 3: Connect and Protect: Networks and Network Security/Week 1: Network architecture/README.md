@@ -38,4 +38,4 @@
 ## Review: Network architecture
 - Wrap-up
 - [Glossary terms from module 1](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%201:%20Network%20architecture/Glossary%20terms%20from%20module%201)
-- **Graded Quiz:** Module 1 challenge
+- **Graded Quiz:** Module 1 challenge (90%)
