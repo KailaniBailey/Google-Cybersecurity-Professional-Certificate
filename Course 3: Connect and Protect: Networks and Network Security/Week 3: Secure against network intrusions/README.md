@@ -17,7 +17,7 @@
 - [Real-life DDoS attack](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%203:%20Secure%20against%20network%20intrusions/Real-life%20DDoS%20attack)
 - **Practice Quiz:** Activity: Analyze network layer communication
 - [Activity Exemplar: Analyze network layer communication](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%203%3A%20Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/Week%203%3A%20Secure%20against%20network%20intrusions/The%20Exemplar%20Explained%20-%20Cybersecurity%20Incident%20Report_%20Network%20Traffic%20Analysis%20.pdf)
-- **Practice Quiz:** Test your knowledge: Secure networks against Denial of Service (DoS) attacks
+- **Practice Quiz:** Test your knowledge: Secure networks against Denial of Service (DoS) attacks (100%)
 ## Network attack tactics and defense
 - Malicious packet sniffing
 - IP Spoofing
@@ -29,4 +29,4 @@
 ## Review: Secure against network intrusion
 - Wrap-up
 - [Glossary terms from module 3](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%203:%20Secure%20against%20network%20intrusions/Glossary%20terms%20from%20module%203)
-- **Graded Quiz:** Module 3 challenge (100%)
+- **Graded Quiz:** Module 3 challenge
