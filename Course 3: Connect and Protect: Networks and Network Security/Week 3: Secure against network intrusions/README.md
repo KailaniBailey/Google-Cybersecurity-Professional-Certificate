@@ -29,4 +29,4 @@
 ## Review: Secure against network intrusion
 - Wrap-up
 - [Glossary terms from module 3](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%203:%20Secure%20against%20network%20intrusions/Glossary%20terms%20from%20module%203)
-- **Graded Quiz:** Module 3 challenge
+- **Graded Quiz:** Module 3 challenge (100%)
