@@ -23,7 +23,7 @@
 - IP Spoofing
 - [Overview of interception tactics](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%203:%20Secure%20against%20network%20intrusions/Overview%20of%20interception%20tactics)
 - Identify: Network attacks
-- **Practice Quiz:** Activity: Analyze network attacks
+- **Practice Quiz:** Activity: Analyze network attacks (100%)
 - [Activity Exemplar: Analyze network attacks](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%203%3A%20Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/Week%203%3A%20Secure%20against%20network%20intrusions/Cybersecurity%20incident%20report%20exemplar.pdf)
 - **Practice Quiz:** Test your knowledge: Network interception attack tactics
 ## Review: Secure against network intrusion
