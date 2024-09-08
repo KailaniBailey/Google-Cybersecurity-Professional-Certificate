@@ -11,7 +11,7 @@
 ## OS hardening
 - OS hardening practices
 - [Brute force attacks and OS hardening](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%204:%20Security%20hardening/Brute%20force%20attacks%20and%20OS%20hardening)
-- **Practice Quiz:** Activity: Apply OS hardening techniques
+- **Practice Quiz:** Activity: Apply OS hardening techniques (100%)
 - [Activity Exemplar: Apply OS hardening techniques](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%204:%20Security%20hardening/Activity%20Exemplar:%20Apply%20OS%20hardening%20techniques)
 - **Practice Quiz:** Test your knowledge: OS hardening
 ## Network hardening
