@@ -18,7 +18,7 @@
 - Network hardening practices
 - [Network security applications](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%204:%20Security%20hardening/Network%20security%20applications)
 - **Practice Quiz:** Activity: Analysis of network hardening
-- [Activity Exemplar: Analysis of network hardening](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%204:%20Security%20hardening/Activity%20Exemplar:%20Analysis%20of%20network%20hardening)
+- [Activity Exemplar: Analysis of network hardening](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%203%3A%20Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/Week%204%3A%20Security%20hardening/Security%20risk%20assessment%20report%20exemplar.pdf)
 - **Practice Quiz:** Test your knowledge: Network hardening
 ## Cloud hardening
 - Network security in the cloud
