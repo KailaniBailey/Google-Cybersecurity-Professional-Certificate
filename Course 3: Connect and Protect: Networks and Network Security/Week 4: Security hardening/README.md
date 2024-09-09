@@ -29,7 +29,7 @@
 ## Review: Security hardening
 - Wrap-up
 - [Glossary terms from module 4](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%203:%20Connect%20and%20Protect:%20Networks%20and%20Network%20Security/Week%204:%20Security%20hardening/Glossary%20terms%20from%20module%204)
-- **Graded Quiz:** Module 4 challenge
+- **Graded Quiz:** Module 4 challenge (100%)
 - **Graded Quiz:** Portfolio Activity: Use the NIST Cybersecurity Framework to respond to a security incident (100%)
 - [Portfolio Activity Exemplar: Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%203%3A%20Connect%20and%20Protect%3A%20Networks%20and%20Network%20Security/Week%204%3A%20Security%20hardening/Incident%20report%20analysis%20exemplar.pdf)
 ## Congratulations on completing Course 3!
