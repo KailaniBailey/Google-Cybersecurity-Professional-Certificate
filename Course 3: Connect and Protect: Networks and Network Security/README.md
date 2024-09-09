@@ -37,4 +37,4 @@ Course 3 of 8 in the Google Cybersecurity Professional Certificate
 ## Final Exam
 # Course 3 Completion Certificate:
 Please [click here] to verify the Google certificate. <br>
-*Coming Soon...*
+![Screenshot (142)](https://github.com/user-attachments/assets/c42aa4ee-24fe-4782-9655-36ba9aa7d1f3)
