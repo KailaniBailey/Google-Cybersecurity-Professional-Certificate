@@ -9,7 +9,7 @@
 - Introduction to Course 4
 - Course 4 overview
 - Helpful resources and tips
-- Connect with your classmates
+- [Connect with your classmates](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204%3A%20Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL/Week%201%3A%20Introduction%20to%20operating%20systems/Connect%20with%20your%20classmates)
 ## The wonderful world of operating systems
 - Welcome to module 1
 - Kim: My journey into computing
