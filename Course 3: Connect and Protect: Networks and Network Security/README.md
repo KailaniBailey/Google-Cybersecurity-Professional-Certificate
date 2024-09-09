@@ -33,8 +33,6 @@ Course 3 of 8 in the Google Cybersecurity Professional Certificate
 - Recognizing components of computer networks and cloud computing
 - Analyzing threats
 - Implementing security hardening
-## Final Assignment
-## Final Exam
 # Course 3 Completion Certificate:
 Please [click here](https://www.coursera.org/account/accomplishments/verify/X60E1RFDBWRB) to verify the Google certificate. <br>
 ![Screenshot (142)](https://github.com/user-attachments/assets/c42aa4ee-24fe-4782-9655-36ba9aa7d1f3)
