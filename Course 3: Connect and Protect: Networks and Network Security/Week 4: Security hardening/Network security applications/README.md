@@ -51,6 +51,12 @@ Below, you can review an example of a dashboard from Google Cloud’s SIEM tool,
 A SIEM tool doesn’t replace the expertise of security analysts, or of the network- and system-hardening activities covered in this course, but they’re used in combination with other security methods. Security analysts often work in a Security Operations Center (SOC) where they can monitor the activity across the network. They can then use their expertise and experience to determine how to respond to the information on the dashboard and decide when the events meet the criteria to be escalated to oversight.
 
 ## Key takeaways
-[ Insert graph ]
+
+| Devices/Tools | Advantages | Disadvantages |
+| --------------| ----------- | -------------| 
+| Firewall |A firewall allows or blocks traffic based on a set of rules|A firewall is only able to filter packets based on information provided in the header of the packets.|
+| Intrusion Detection System (IDS) |An IDS detecs and alerts admins about possible intrusions, attacks, and other malicious traffic.|An IDS can only scan for known attacks or obvious anomalies; new and sophisticated attacks migt not be caught. It doesn't actually stop the incoming traffic.|
+| Intrusion Prevention System (IPS) |An IPS monitors system activity for intrusions and anomalies and takes action to stop them.|An IPS is an inline appliance. If it fails, the connection between the private network and the internet breaks. It might detect false positives and block legitimate traffic.|
+| Security Information and Event Management (SIEM) |A SIEM tool collects and analyzes log data from multiple network machines. It aggregates security events for monitoring in a central dashboard.|A SIEM tool only reports on possible security issues. It does not take any actions to stop or prevent suspicious events.|
 
 Each of these devices or tools cost money to purchase, install, and maintain. An organization might need to hire additional personnel to monitor the security tools, as in the case of a SIEM. Decision-makers are tasked with selecting the appropriate level of security based on cost and risk to the organization. You will learn more about choosing levels of security later in the course. 
