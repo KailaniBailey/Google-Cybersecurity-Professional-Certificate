@@ -9,3 +9,4 @@ For this discussion prompt, consider the following questions:
 
 Please write two paragraphs in response to these questions (100-200 words). 
 ## My Response
+> I’m not entirely familiar with all of them but I have heard of the majority of them, so none of them are completely new to me. I would say that I’ve used more of the macOS, Android, iOS, Windows, and Chrome operating systems. I’m less familiar with Linux OS but am curious and excited to learn more about it for career purposes. I would like to know more about Linux OS since it’s used heavily in cybersecurity and would be great to have as an additional professional  skill.
