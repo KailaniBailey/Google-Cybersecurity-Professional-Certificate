@@ -14,7 +14,7 @@
 - Welcome to module 1
 - Kim: My journey into computing
 - Introduction to operating systems
-- Compare operating systems
+- [Compare operating systems](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%201:%20Introduction%20to%20operating%20systems/Compare%20operating%20systems)
 - Your background in operating systems
 - **Practice Quiz:** Test your knowledge: The wonderful world of operating systems
 ## The operating system at work
