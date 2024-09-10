@@ -16,7 +16,7 @@
 - Introduction to operating systems
 - [Compare operating systems](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%201:%20Introduction%20to%20operating%20systems/Compare%20operating%20systems)
 - [Your background in operating systems](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%201:%20Introduction%20to%20operating%20systems/Your%20background%20in%20operating%20systems)
-- **Practice Quiz:** Test your knowledge: The wonderful world of operating systems
+- **Practice Quiz:** Test your knowledge: The wonderful world of operating systems (100%)
 ## The operating system at work
 - Inside the operating system
 - Requests to the operating system
