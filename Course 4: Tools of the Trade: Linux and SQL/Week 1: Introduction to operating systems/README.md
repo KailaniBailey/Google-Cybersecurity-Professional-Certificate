@@ -20,7 +20,7 @@
 ## The operating system at work
 - Inside the operating system
 - [Requests to the operating system](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204%3A%20Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL/Week%201%3A%20Introduction%20to%20operating%20systems/Requests%20to%20the%20operating%20system)
-- Practice: Order of operations in the OS
+- Practice: Order of operations in the OS (100%)
 - Resource allocation via the OS
 - Virtualization technology
 - **Practice Quiz:** Test your knowledge: The operating system at work
