@@ -32,5 +32,5 @@
 - **Practice Quiz:** Test your knowledge: The user interface (100%)
 ## Review: Introduction to operating systems
 - Wrap-up
-- Glossary terms from module 1
+- [Glossary terms from module 1](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%201:%20Introduction%20to%20operating%20systems/Glossary%20terms%20from%20module%201)
 - **Graded Quiz:** Module 1 challenge
