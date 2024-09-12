@@ -29,7 +29,7 @@
 - [The command line in use](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%201:%20Introduction%20to%20operating%20systems/The%20command%20line%20in%20use)
 - **Practice Quiz:** Activity: Select the user interface (100%)
 - Ellen: My path into cybersecurity
-- **Practice Quiz:** Test your knowledge: The user interface
+- **Practice Quiz:** Test your knowledge: The user interface (100%)
 ## Review: Introduction to operating systems
 - Wrap-up
 - Glossary terms from module 1
