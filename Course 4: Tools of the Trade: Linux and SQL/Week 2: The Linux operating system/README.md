@@ -23,7 +23,7 @@
 - **Practice Quiz:** Test your knowledge: Linux distributions (100%)
 ## The shell
 - Introduction to the shell
-- Different types of shells
+- [Different types of shells](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%202:%20The%20Linux%20operating%20system/Different%20types%20of%20shells)
 - Input and output in the shell
 - Activity: Examine input and output in the shell
 - Optional Exemplar: Examine input and output in the shell
