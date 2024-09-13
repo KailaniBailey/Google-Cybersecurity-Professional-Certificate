@@ -16,7 +16,7 @@
 ## Linux distributions
 - KALI LINUX
 - [More Linux distributions](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%202:%20The%20Linux%20operating%20system/More%20Linux%20distributions)
-- Package managers for installing applications
+- [Package managers for installing applications](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%202:%20The%20Linux%20operating%20system/Package%20managers%20for%20installing%20applications)
 - Resources for completing Linux labs
 - Lab tips and troubleshooting steps
 - Optional Exemplar: Install software in a Linux distribution
