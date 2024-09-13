@@ -12,7 +12,7 @@
 - Linux architecture
 - [Linux architecture explained](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204%3A%20Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL/Week%202%3A%20The%20Linux%20operating%20system/Linux%20architecture%20explained)
 - Explore: Components of the Linux OS
-- **Practice Quiz:** Test your knowledge: All about Linux
+- **Practice Quiz:** Test your knowledge: All about Linux (100%)
 ## Linux distributions
 - KALI LINUX
 - More Linux distributions
