@@ -20,7 +20,7 @@
 - [Resources for completing Linux labs](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%202:%20The%20Linux%20operating%20system/Resources%20for%20completing%20Linux%20labs)
 - [Lab tips and troubleshooting steps](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%202:%20The%20Linux%20operating%20system/Lab%20tips%20and%20troubleshooting%20steps)
 - Optional Exemplar: Install software in a Linux distribution
-- **Practice Quiz:** Test your knowledge: Linux distributions
+- **Practice Quiz:** Test your knowledge: Linux distributions (100%)
 ## The shell
 - Introduction to the shell
 - Different types of shells
