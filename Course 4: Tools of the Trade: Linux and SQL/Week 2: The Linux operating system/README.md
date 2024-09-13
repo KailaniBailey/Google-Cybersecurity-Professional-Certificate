@@ -15,7 +15,7 @@
 - **Practice Quiz:** Test your knowledge: All about Linux (100%)
 ## Linux distributions
 - KALI LINUX
-- More Linux distributions
+- [More Linux distributions](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%202:%20The%20Linux%20operating%20system/More%20Linux%20distributions)
 - Package managers for installing applications
 - Resources for completing Linux labs
 - Lab tips and troubleshooting steps
