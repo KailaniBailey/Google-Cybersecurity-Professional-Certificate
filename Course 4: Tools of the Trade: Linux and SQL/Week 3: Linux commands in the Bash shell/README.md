@@ -29,7 +29,7 @@
 ## Authenticate and authorize users
 - File permissions and ownership
 - Change permissions
-- Permission commands
+- [Permission commands](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%203:%20Linux%20commands%20in%20the%20Bash%20shell/Permission%20commands)
 - Activity: Manage authorization
 - Optional Exemplar: Manage authorization
 - **Graded Quiz:** Portfolio Activity: Use Linux commands to manage file permissions
