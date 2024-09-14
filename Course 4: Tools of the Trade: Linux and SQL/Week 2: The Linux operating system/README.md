@@ -28,7 +28,7 @@
 - Activity: Examine input and output in the shell
 - Optional Exemplar: Examine input and output in the shell
 - **Practice Quiz:** Test your knowledge: The shell (100%)
-- Strategies to learn new skills
+- [Strategies to learn new skills](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%202:%20The%20Linux%20operating%20system/Strategies%20to%20learn%20new%20skills)
 ## Review: The Linux operating system
 - Wrap-up
 - [Glossary terms from module 2](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%202:%20The%20Linux%20operating%20system/Glossary%20terms%20from%20module%202)
