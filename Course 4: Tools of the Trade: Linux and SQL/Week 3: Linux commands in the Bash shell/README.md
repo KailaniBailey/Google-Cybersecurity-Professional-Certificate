@@ -50,6 +50,6 @@
 - **Practice Quiz:** Test your knowledge: Get help in Linux
 ## Review: Linux commands in the Bash shell
 - Wrap-up
-- Reference guide: Linux
+- [Reference guide: Linux](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%204%3A%20Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL/Week%203%3A%20Linux%20commands%20in%20the%20Bash%20shell/Reference%20Guide%20Linux.pdf)
 - Glossary terms from module 3
 - **Graded Quiz:** Module 3 challenge
