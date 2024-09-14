@@ -35,7 +35,7 @@
 - **Graded Quiz:** Portfolio Activity: Use Linux commands to manage file permissions
 - Portfolio Activity Exemplar: Use Linux commands to manage file permissions
 - Add and delete users
-- Responsible use of sudo
+- [Responsible use of sudo](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%203:%20Linux%20commands%20in%20the%20Bash%20shell/Responsible%20use%20of%20sudo)
 - Activity: Add and manage users with Linux commands
 - Optional Exemplar: Add and manage users with Linux commands
 - **Practice Quiz:** Test your knowledge: Authenticate and authorize users
