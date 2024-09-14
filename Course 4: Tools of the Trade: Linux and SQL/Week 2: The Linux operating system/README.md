@@ -32,4 +32,4 @@
 ## Review: The Linux operating system
 - Wrap-up
 - [Glossary terms from module 2](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%202:%20The%20Linux%20operating%20system/Glossary%20terms%20from%20module%202)
-- **Graded Quiz:** Module 2 challenge
+- **Graded Quiz:** Module 2 challenge (100%)
