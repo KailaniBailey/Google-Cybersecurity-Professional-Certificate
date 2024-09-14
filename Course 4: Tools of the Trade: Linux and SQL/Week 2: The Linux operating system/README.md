@@ -27,7 +27,7 @@
 - Input and output in the shell
 - Activity: Examine input and output in the shell
 - Optional Exemplar: Examine input and output in the shell
-- **Practice Quiz:** Test your knowledge: The shell
+- **Practice Quiz:** Test your knowledge: The shell (100%)
 - Strategies to learn new skills
 ## Review: The Linux operating system
 - Wrap-up
