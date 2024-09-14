@@ -14,7 +14,7 @@
 - [Navigate Linux and read file content](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%203:%20Linux%20commands%20in%20the%20Bash%20shell/Navigate%20Linux%20and%20read%20file%20content)
 - Activity: Find files with Linux commands
 - Optional Exemplar: Find files with Linux commands
-- **Practice Quiz:** Test your knowledge: Navigate the Linux file system in Bash
+- **Practice Quiz:** Test your knowledge: Navigate the Linux file system in Bash (100%)
 ## Manage file content in Bash
 - Find what you need with Linux
 - Filter content in Linux
