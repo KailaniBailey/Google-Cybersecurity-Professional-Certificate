@@ -21,7 +21,7 @@
 - Activity: Filter with grep
 - Optional Exemplar: Filter with grep
 - Create and modify directories and files
-- Manage directories and files
+- [Manage directories and files](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%203:%20Linux%20commands%20in%20the%20Bash%20shell/Manage%20directories%20and%20files)
 - Identify: Key Linux commands
 - Activity: Manage files and Linux commands
 - Optional Exemplar: Manage files with Linux commands
