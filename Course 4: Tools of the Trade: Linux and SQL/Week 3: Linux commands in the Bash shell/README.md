@@ -17,7 +17,7 @@
 - **Practice Quiz:** Test your knowledge: Navigate the Linux file system in Bash (100%)
 ## Manage file content in Bash
 - Find what you need with Linux
-- Filter content in Linux
+- [Filter content in Linux](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%203:%20Linux%20commands%20in%20the%20Bash%20shell/Filter%20content%20in%20Linux)
 - Activity: Filter with grep
 - Optional Exemplar: Filter with grep
 - Create and modify directories and files
