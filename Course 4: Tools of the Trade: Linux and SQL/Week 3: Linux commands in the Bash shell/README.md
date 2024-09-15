@@ -46,7 +46,7 @@
 - [Linux resources](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%203:%20Linux%20commands%20in%20the%20Bash%20shell/Linux%20resources)
 - Activity: Get help in the command line
 - Optional Exemplar: Get help in the command line
-- Apply Linux commands as a cybersecurity professional
+- [Apply Linux commands as a cybersecurity professional](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204%3A%20Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL/Week%203%3A%20Linux%20commands%20in%20the%20Bash%20shell/Apply%20Linux%20commands%20as%20a%20cybersecurity%20professional)
 - **Practice Quiz:** Test your knowledge: Get help in Linux (100%)
 ## Review: Linux commands in the Bash shell
 - Wrap-up
