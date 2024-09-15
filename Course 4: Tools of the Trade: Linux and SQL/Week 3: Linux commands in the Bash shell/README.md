@@ -52,4 +52,4 @@
 - Wrap-up
 - [Reference guide: Linux](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%204%3A%20Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL/Week%203%3A%20Linux%20commands%20in%20the%20Bash%20shell/Reference%20Guide%20Linux.pdf)
 - [Glossary terms from module 3](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204%3A%20Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL/Week%203%3A%20Linux%20commands%20in%20the%20Bash%20shell/Glossary%20terms%20from%20module%203)
-- **Graded Quiz:** Module 3 challenge
+- **Graded Quiz:** Module 3 challenge (90%)
