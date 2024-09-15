@@ -25,7 +25,7 @@
 - Identify: Key Linux commands
 - Activity: Manage files and Linux commands
 - Optional Exemplar: Manage files with Linux commands
-- **Practice Quiz:** Test your knowledge: Manage file content in Bash
+- **Practice Quiz:** Test your knowledge: Manage file content in Bash (100%)
 ## Authenticate and authorize users
 - File permissions and ownership
 - Change permissions
