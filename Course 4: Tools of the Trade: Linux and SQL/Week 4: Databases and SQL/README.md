@@ -52,5 +52,5 @@
 - Glossary terms from module 4
 - **Graded Quiz:** Module 1 challenge
 ## Congratulations on completing Course 4!
--Course wrap-up
-Course 4 glossary
+- Course wrap-up
+- Course 4 glossary
