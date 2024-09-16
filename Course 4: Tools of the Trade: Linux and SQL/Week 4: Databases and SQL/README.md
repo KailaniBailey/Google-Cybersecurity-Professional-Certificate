@@ -53,4 +53,4 @@
 - **Graded Quiz:** Module 1 challenge
 ## Congratulations on completing Course 4!
 - Course wrap-up
-- Course 4 glossary
+- [Course 4 glossary](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%204%3A%20Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL/Week%204%3A%20Databases%20and%20SQL/Course%204%20glossary.pdf)
