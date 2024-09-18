@@ -16,7 +16,7 @@
 ## SQL queries
 - Basic queries
 - [Query a database](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%204:%20Databases%20and%20SQL/Query%20a%20database)
-- Resources for completing SQL labs
+- [Resources for completing SQL labs](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%204:%20Databases%20and%20SQL/Resources%20for%20completing%20SQL%20labs)
 - Activity: Perform a SQL query
 - Optional Exemplar: Perform a SQL query
 - Basic filters on SQL queries
