@@ -15,8 +15,10 @@ In readings and quizzes, this course uses a sample database called the Chinook d
 As an example, you can run this query to return data from the customers table of the Chinook database:
 
 [ Text only ]
+
 1. SELECT customerid, city, country
 2. FROM customers;
+
 [ Insert image of output. ]
 
 ### SELECT
@@ -52,9 +54,11 @@ ORDER BY sequences the records returned by a query based on a specified column o
 To use the ORDER BY keyword, write it at the end of the query and specify a column to base the sort on. In this example, SQL will return the customerid, city, and country columns from the customers table, and the records will be sequenced by the city column:
 
 [ Text only ]
+
 1. SELECT customerid, city, country
 2. FROM customers
 3. ORDER BY city;
+
 [ Insert image of output. ]
 
 The ORDER BY keyword sorts the records based on the column specified after this keyword. By default, as shown in this example, the sequence will be in ascending order. This means
@@ -67,9 +71,11 @@ if the column contains alphabetic characters, such as in the example with the ci
 You can also use the ORDER BY with the DESC keyword to sort in descending order. The DESC keyword is short for "descending" and tells SQL to sort numbers from largest to smallest, or alphabetically from Z to A. This can be done by following ORDER BY with the DESC keyword. For example, you can run this query to examine how the results differ when DESC is applied: 
 
 [ Text only]
+
 1. SELECT customerid, city, country
 2. FROM customers
 3. ORDER BY city DESC;
+
 [ Insert image of output. ]
 
 Now, cities at the end of the alphabet are listed first.
@@ -78,9 +84,11 @@ Now, cities at the end of the alphabet are listed first.
 You can also choose multiple columns to order by. For example, you might first choose the country and then the city column. SQL then sorts the output by country, and for rows with the same country, it sorts them based on city. You can run this to explore how SQL displays this:
 
 [ Text only ]
+
 1. SELECT customerid, city, country
 2. FROM customers
 3. ORDER BY country, city;
+
 [ Insert image of output. ]
 
 ## Key takeaways
