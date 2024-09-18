@@ -20,7 +20,7 @@
 - Activity: Perform a SQL query
 - Optional Exemplar: Perform a SQL query
 - Basic filters on SQL queries
-- The WHERE clause and basic operators
+- [The WHERE clause and basic operators](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%204:%20Databases%20and%20SQL/The%20WHERE%20clause%20and%20basic%20operators)
 - Activity: Filter a SQL query
 - Optional Exemplar: Filter a SQL query
 - **Practice Quiz:** Test your knowledge: SQL queries
