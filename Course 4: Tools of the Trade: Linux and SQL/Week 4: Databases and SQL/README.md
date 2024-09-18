@@ -15,7 +15,7 @@
 - **Practice Quiz:** Test your knowledge: SQL and databases (100%)
 ## SQL queries
 - Basic queries
-- Query a database
+- [Query a database](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%204:%20Databases%20and%20SQL/Query%20a%20database)
 - Resources for completing SQL labs
 - Activity: Perform a SQL query
 - Optional Exemplar: Perform a SQL query
