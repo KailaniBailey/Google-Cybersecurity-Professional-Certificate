@@ -44,7 +44,7 @@
 - Activity: Complete a join
 - Optional Exemplar: Complete a join
 - **Practice Quiz:** Test your knowledge: SQL joins
-- Continuous learning in SQL
+- [Continuous learning in SQL](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%204:%20Databases%20and%20SQL/Continuous%20learning%20in%20SQL)
 - SQL and the security analyst
 ## Review: Databases and SQL
 - Wrap-up
