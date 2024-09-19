@@ -26,7 +26,7 @@
 - **Practice Quiz:** Test your knowledge: SQL queries (100%)
 ## More SQL filters
 - Filter dates and numbers
-- Operators for filtering dates and numbers
+- [Operators for filtering dates and numbers](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%204:%20Databases%20and%20SQL/Operators%20for%20filtering%20dates%20and%20numbers)
 - Activity: Apply more filters in SQL
 - Optional Exemplar: Apply more filters in SQL
 - Filters with AND, OR, and NOT
