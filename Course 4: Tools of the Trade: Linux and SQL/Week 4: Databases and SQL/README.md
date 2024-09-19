@@ -30,7 +30,7 @@
 - Activity: Apply more filters in SQL
 - Optional Exemplar: Apply more filters in SQL
 - Filters with AND, OR, and NOT
-- More on filters with AND, OR, and NOT
+- [More on filters with AND, OR, and NOT](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204%3A%20Tools%20of%20the%20Trade%3A%20Linux%20and%20SQL/Week%204%3A%20Databases%20and%20SQL/More%20on%20filters%20with%20AND%2C%20OR%2C%20and%20NOT)
 - Activity: Filter with AND, OR, and NOT
 - Optional Exemplar: Filter with AND, OR, and NOT
 - **Graded Quiz:** Portfolio Activity: Apply filters to SQL queries
