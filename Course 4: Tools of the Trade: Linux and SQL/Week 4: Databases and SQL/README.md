@@ -39,7 +39,7 @@
 ## SQL joins
 - Join tables in SQL
 - Types of joins
-- Compare types of joins
+- [Compare types of joins](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%204:%20Tools%20of%20the%20Trade:%20Linux%20and%20SQL/Week%204:%20Databases%20and%20SQL/Compare%20types%20of%20joins)
 - Identify: Choose the appropriate type of join
 - Activity: Complete a join
 - Optional Exemplar: Complete a join
