@@ -17,8 +17,9 @@ Course 4 of 8 in the Google Cybersecurity Professional Certificate
 - Querying a database with SQL
 - Filtering on a particular word with the Linux command line
 - Authenticating and authorizing users with the Linux command line
-## Final Assignment
 ## Final Exam
+90%
 # Course 4 Completion Certificate:
-Please [click here] to verify the Google certificate. <br>
-*Coming Soon...*
+Please [click here](https://www.coursera.org/account/accomplishments/verify/WAP7HHYVKHVP) to verify the Google certificate. <br>
+![Course 4](https://github.com/user-attachments/assets/92f3890d-cd62-498f-a454-154e36c79623)
+
