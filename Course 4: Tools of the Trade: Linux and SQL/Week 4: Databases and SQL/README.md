@@ -35,7 +35,7 @@
 - Optional Exemplar: Filter with AND, OR, and NOT
 - **Graded Quiz:** Portfolio Activity: Apply filters to SQL queries (100%)
 - Portfolio Activity Exemplar: Apply filters to SQL queries
-- **Practice Quiz:** Test your knowledge: More SQL filters
+- **Practice Quiz:** Test your knowledge: More SQL filters (100%)
 ## SQL joins
 - Join tables in SQL
 - Types of joins
