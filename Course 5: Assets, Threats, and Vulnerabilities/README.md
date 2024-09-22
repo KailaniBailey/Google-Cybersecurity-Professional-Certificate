@@ -19,7 +19,6 @@ Course 5 of 8 in the Google Cybersecurity Professional Certificate
 - Searching the CVE database for vulnerable applications
 - Analyzing attack surfaces
 - Applying the PASTA threat modeling framework
-## Final Assignment
 ## Final Exam
 # Course 5 Completion Certificate:
 Please [click here] to verify the Google certificate. <br>
