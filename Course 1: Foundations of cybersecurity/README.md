@@ -28,6 +28,9 @@ Course 1 of 8 in the Google Cybersecurity Professional Certificate
 - Collaborating with others
 - Identifying threats, risks, and vulnerabilities
 - Problem-solving
+
+## Final Exam
+97.22%
 # Course 1 Completion Certificate:
 Please [click here](https://www.coursera.org/account/accomplishments/verify/TR2KM9MQC8QV) to verify the Google certificate. <br>
 ![Course 1](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/assets/158431578/d902ba0f-f61c-4f22-ae96-16849213c833)
