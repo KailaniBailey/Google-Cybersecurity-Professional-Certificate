@@ -9,3 +9,4 @@ For this discussion prompt, consider the following questions:
 
 Please write two paragraphs in response to these questions (100-200 words). 
 ## My Response
+> SQL might assist me in the tasks I need to perform by allowing me to work within a database to analyze information found in large data sets. 
