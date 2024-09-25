@@ -10,3 +10,8 @@ For this discussion prompt, consider the following questions:
 - What do you hope to gain from taking this course?
 
 ## My Response
+> I was inspired to learn about cybersecurity while doing a certificate path to build a career in data as a data scientist. I had been interested in cybersecurity before so I also started a beginner's course through CISCO which covered the basics of cybersecurity.
+>
+> As a cybersecurity professional, I believe I would continue having an analytical and goal-based mindset. I would want to learn as much as I could and go as far as I could within the field in order to make a new for myself. I've taken up an interest Linux and have even looked into a CompTIA certification for Linux as well.
+>
+> I hope to gain a better understanding of the course topics covering Assets, Threats, and Vulnerabilities. I would like to become a reliable woman within this field and am dedicated to developing and building my own specific set of skills that are tailored to whichever path I choose to take within the field of cybersecurity, i.e. becoming a CompTIA certified Linux professional.
