@@ -18,7 +18,7 @@
 - [Understand, risks, threats, and vulnerabilities](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%201:%20Introduction%20to%20asset%20security/Understand,%20risks,%20threats,%20and%20vulnerabilities)
 - Tri: Life in asset security
 - Security starts with asset classification
-- Common classification requirements
+- [Common classification requirements](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%201:%20Introduction%20to%20asset%20security/Common%20classification%20requirements)
 - **Practice Quiz:** Test your knowledge: Introduction to assets
 - **Practice Quiz:** Activity: Classify the assets connected to a home network
 - Activity Exemplar: Classify the assets connected to a home network
