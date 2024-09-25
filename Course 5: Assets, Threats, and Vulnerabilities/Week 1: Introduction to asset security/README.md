@@ -11,7 +11,7 @@
 - Course 5 overview
 - Helpful resources and tips
 - Da'Queshia: My path to cybersecurity
-- Connect with your classmates
+- [Connect with your classmates](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%201%3A%20Introduction%20to%20asset%20security/Connect%20with%20your%20classmates)
 ## Introduction to assets
 - Welcome to module 1
 - The what, why, and how of asset security
