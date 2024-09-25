@@ -31,7 +31,7 @@
 ## Risk and asset security
 - Elements of a security plan
 - The NIST Cybersecurity Framework
-- Security guidelines in action
+- [Security guidelines in action](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%201:%20Introduction%20to%20asset%20security/Security%20guidelines%20in%20action)
 - **Practice Quiz:** Test your knowledge: Risk and asset security
 - **Practice Quiz:** Activity: Score risks based on their likelihood and severity
 - Activity Exemplar: Score risks based on their likelihood and severity
