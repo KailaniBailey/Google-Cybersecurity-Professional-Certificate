@@ -21,7 +21,7 @@
 - [Common classification requirements](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%201:%20Introduction%20to%20asset%20security/Common%20classification%20requirements)
 - **Practice Quiz:** Test your knowledge: Introduction to assets
 - **Practice Quiz:** Activity: Classify the assets connected to a home network
-- Activity Exemplar: Classify the assets connected to a home network
+- Activity Exemplar: [Classify the assets connected to a home network](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%201%3A%20Introduction%20to%20asset%20security/Home%20asset%20inventory%20exemplar%20-%20Sheet1.pdf)
 ## Digital and physical assets
 - Assets in a digital world
 - The challenges of securing digital devices
