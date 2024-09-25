@@ -34,7 +34,7 @@
 - [Security guidelines in action](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%201:%20Introduction%20to%20asset%20security/Security%20guidelines%20in%20action)
 - **Practice Quiz:** Test your knowledge: Risk and asset security
 - **Practice Quiz:** Activity: Score risks based on their likelihood and severity (100%)
-- Activity Exemplar: Score risks based on their likelihood and severity
+- Activity Exemplar: [Score risks based on their likelihood and severity](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%201%3A%20Introduction%20to%20asset%20security/Risk%20register%20exemplar.pdf)
 ## Review: Introduction to asset security
 - Wrap-up
 - Glossary terms from module 1
