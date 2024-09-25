@@ -15,7 +15,7 @@
 ## Introduction to assets
 - Welcome to module 1
 - The what, why, and how of asset security
-- Understand, risks, threats, and vulnerabilities
+- [Understand, risks, threats, and vulnerabilities](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%201:%20Introduction%20to%20asset%20security/Understand,%20risks,%20threats,%20and%20vulnerabilities)
 - Tri: Life in asset security
 - Security starts with asset classification
 - Common classification requirements
