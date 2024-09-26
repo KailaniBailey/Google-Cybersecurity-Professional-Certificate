@@ -27,7 +27,7 @@
 - [The challenges of securing digital devices](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%201:%20Introduction%20to%20asset%20security/The%20challenges%20of%20securing%20digital%20devices)
 - Identify: States of data in the workplace
 - [The emergence of cloud security](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%201:%20Introduction%20to%20asset%20security/The%20emergence%20of%20cloud%20security)
-- **Practice Quiz:** Test your knowledge: Digital and physical assets
+- **Practice Quiz:** Test your knowledge: Digital and physical assets (100%)
 ## Risk and asset security
 - Elements of a security plan
 - The NIST Cybersecurity Framework
