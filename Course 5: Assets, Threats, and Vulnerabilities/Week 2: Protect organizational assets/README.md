@@ -44,5 +44,5 @@
 
 ## Review: Protect organizational assets
 - Wrap-up
-- Glossary terms from module 2
+- [Glossary terms from module 2](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%202%3A%20Protect%20organizational%20assets/Glossary%20terms%20from%20module%202)
 - **Graded Quiz:** Module 2 challenge
