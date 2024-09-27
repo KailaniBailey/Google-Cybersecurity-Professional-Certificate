@@ -7,3 +7,42 @@
 - Describe how to effectively use authentication as a security control.
 - Describe effective authorization practices that verify user access.
 ## Safeguard information
+- Welcome to module 2
+- Security controls
+- Principle of least privilege
+- The data lifecycle
+- Information privacy: Regulations and compliance
+- Heather: The importance of protecting PII
+- **Practice Quiz:** Activity: Determine appropriate data handling practices
+- Activity Exemplar: Determine appropriate data handling practices
+- **Practice Quiz:** Test your knowledge: Safeguard Information
+
+## Encryption methods
+- Fundamentals of cryptography
+- Public key infrastructure
+- Symmetric and asymmetric encryption
+- Resources for completing labs
+- Lab tips and troubleshooting steps
+- Activity: Decrypt an encrypted message
+- Optional Exemplar: Decrypt an encrypted message
+- Non-repudiation and hashing
+- The evolution of hash functions
+- Activity: Create hash values
+- Optional Exemplar: Create hash values
+- **Practice Quiz:** Test your knowledge: Encryption methods
+
+## Authentication, authorization, and accounting
+- Access controls and authentication systems
+- The rise of SSO and MFA
+- The mechanisms of authorization
+- Why we audit user activity
+- Tim: Finding purpose in protecting assets
+- Identity and access management
+- **Practice Quiz:** Activity: Improve authentication, authorization, and accounting for a small business
+- Activity Exemplar: Improve authentication and authorization for a small business
+- **Practice Quiz:** Test your knowledge: Authentication, authorization, and accounting
+
+## Review: Protect organizational assets
+- Wrap-up
+- Glossary terms from module 2
+- **Graded Quiz:** Module 2 challenge
