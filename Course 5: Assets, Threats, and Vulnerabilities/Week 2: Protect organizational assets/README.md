@@ -15,7 +15,7 @@
 - Heather: The importance of protecting PII
 - **Practice Quiz:** Activity: Determine appropriate data handling practices (100%)
 - Activity Exemplar: Determine appropriate data handling practices
-- **Practice Quiz:** Test your knowledge: Safeguard Information
+- **Practice Quiz:** Test your knowledge: Safeguard Information (100%)
 
 ## Encryption methods
 - Fundamentals of cryptography
