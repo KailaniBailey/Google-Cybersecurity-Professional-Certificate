@@ -10,7 +10,7 @@
 - Welcome to module 2
 - Security controls
 - [Principle of least privilege](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%202:%20Protect%20organizational%20assets/Principle%20of%20least%20privilege)
-- The data lifecycle
+- [The data lifecycle](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%202:%20Protect%20organizational%20assets/The%20data%20lifecycle)
 - Information privacy: Regulations and compliance
 - Heather: The importance of protecting PII
 - **Practice Quiz:** Activity: Determine appropriate data handling practices
