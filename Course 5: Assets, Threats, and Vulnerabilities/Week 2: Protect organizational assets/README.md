@@ -26,7 +26,7 @@
 - Activity: Decrypt an encrypted message
 - Optional Exemplar: Decrypt an encrypted message
 - Non-repudiation and hashing
-- The evolution of hash functions
+- [The evolution of hash functions](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%202:%20Protect%20organizational%20assets/The%20evolution%20of%20hash%20functions)
 - Activity: Create hash values
 - Optional Exemplar: Create hash values
 - **Practice Quiz:** Test your knowledge: Encryption methods
