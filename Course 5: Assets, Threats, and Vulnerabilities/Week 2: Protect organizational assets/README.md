@@ -20,7 +20,7 @@
 ## Encryption methods
 - Fundamentals of cryptography
 - Public key infrastructure
-- Symmetric and asymmetric encryption
+- [Symmetric and asymmetric encryption](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%202:%20Protect%20organizational%20assets/Symmetric%20and%20asymmetric%20encryption)
 - Resources for completing labs
 - Lab tips and troubleshooting steps
 - Activity: Decrypt an encrypted message
