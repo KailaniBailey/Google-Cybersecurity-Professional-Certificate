@@ -29,7 +29,7 @@
 - [The evolution of hash functions](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%202:%20Protect%20organizational%20assets/The%20evolution%20of%20hash%20functions)
 - Activity: Create hash values
 - Optional Exemplar: Create hash values
-- **Practice Quiz:** Test your knowledge: Encryption methods
+- **Practice Quiz:** Test your knowledge: Encryption methods (100%)
 
 ## Authentication, authorization, and accounting
 - Access controls and authentication systems
