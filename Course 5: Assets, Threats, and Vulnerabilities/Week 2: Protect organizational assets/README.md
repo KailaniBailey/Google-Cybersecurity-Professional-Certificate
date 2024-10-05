@@ -33,7 +33,7 @@
 
 ## Authentication, authorization, and accounting
 - Access controls and authentication systems
-- The rise of SSO and MFA
+- [The rise of SSO and MFA](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%202:%20Protect%20organizational%20assets/The%20rise%20of%20SSO%20and%20MFA)
 - The mechanisms of authorization
 - Why we audit user activity
 - Tim: Finding purpose in protecting assets
