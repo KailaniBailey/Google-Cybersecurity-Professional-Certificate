@@ -9,7 +9,13 @@
 - Develop an attacker mindset to recognize threats.
 
 ## Flaws in the system
-- 
+- Welcome to module 3
+- Vulnerability management
+- Defense in depth strategy
+- Common vulnerabilities and exposures
+- The OWASP Top 10
+- Open source intelligence
+- **Practice Quiz:** Test your knowledge: Flaws in the system
 ## Identify system vulnerabilities
 ## Cyber attacker mindset
 ## Review: Vulnerabilities in systems
