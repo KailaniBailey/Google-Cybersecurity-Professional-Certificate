@@ -38,7 +38,7 @@
 - Why we audit user activity
 - Tim: Finding purpose in protecting assets
 - Identity and access management
-- **Practice Quiz:** Activity: Improve authentication, authorization, and accounting for a small business
+- **Practice Quiz:** Activity: Improve authentication, authorization, and accounting for a small business (100%)
 - Activity Exemplar: Improve authentication and authorization for a small business
 - **Practice Quiz:** Test your knowledge: Authentication, authorization, and accounting
 
