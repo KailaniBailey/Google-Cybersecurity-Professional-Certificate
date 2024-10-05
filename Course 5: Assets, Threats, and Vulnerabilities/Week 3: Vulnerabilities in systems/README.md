@@ -17,7 +17,25 @@
 - Open source intelligence
 - **Practice Quiz:** Test your knowledge: Flaws in the system
 ## Identify system vulnerabilities
+- Vulnerability assessments
+- Approaches to vulnerability scanning
+- The importance of updates
+- Omad: My learning journey into cybersecurity
+- Penetration testing
+- **Practice Quiz:** Test your knowledge: Identify system vulnerabilities
+- **Pracitce Quiz:** Portfolio Activity: Analyze a vulnerable system for a small business
+- Portfolio Activity Exemplar: Analyze a vulnerable system for a small business
 ## Cyber attacker mindset
+- Protect all entry points
+- Approach cybersecurity with an attacker mindset
+- Types of threat actors
+- Niru: Adopt an attacker mindset
+- Pathways through defenses
+- **Practice Quiz:** Self-reflection: Approach cybersecurity with an attacker mindset
+- Fortify against brute force cyber attacks
+- **Practice Quiz:** Activity: Identify the attack vectors of a USB drive
+- Activity Exemplar: Identify the attack vectors of a USB drive
+- **Practice Quiz:** Test your knowledge: Cyber attacker mindset
 ## Review: Vulnerabilities in systems
 - Wrap-up
 - Glossary terms from module 3
