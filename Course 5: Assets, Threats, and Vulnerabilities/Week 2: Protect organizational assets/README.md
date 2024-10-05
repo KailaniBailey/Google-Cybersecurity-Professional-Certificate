@@ -39,7 +39,7 @@
 - Tim: Finding purpose in protecting assets
 - Identity and access management
 - **Practice Quiz:** Activity: Improve authentication, authorization, and accounting for a small business (100%)
-- Activity Exemplar: Improve authentication and authorization for a small business
+- Activity Exemplar: [Improve authentication and authorization for a small business](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%202%3A%20Protect%20organizational%20assets/Access%20control%20worksheet%20exemplar.pdf)
 - **Practice Quiz:** Test your knowledge: Authentication, authorization, and accounting
 
 ## Review: Protect organizational assets
