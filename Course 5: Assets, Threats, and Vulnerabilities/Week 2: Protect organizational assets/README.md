@@ -40,7 +40,7 @@
 - [Identity and access management](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%202:%20Protect%20organizational%20assets/Identity%20and%20access%20management)
 - **Practice Quiz:** Activity: Improve authentication, authorization, and accounting for a small business (100%)
 - Activity Exemplar: [Improve authentication and authorization for a small business](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%202%3A%20Protect%20organizational%20assets/Access%20control%20worksheet%20exemplar.pdf)
-- **Practice Quiz:** Test your knowledge: Authentication, authorization, and accounting
+- **Practice Quiz:** Test your knowledge: Authentication, authorization, and accounting (100%)
 
 ## Review: Protect organizational assets
 - Wrap-up
