@@ -9,6 +9,10 @@
 - Develop an attacker mindset to recognize threats.
 
 ## Flaws in the system
+- 
 ## Identify system vulnerabilities
 ## Cyber attacker mindset
 ## Review: Vulnerabilities in systems
+- Wrap-up
+- Glossary terms from module 3
+- **Graded Quiz:** Module 3 challenge
