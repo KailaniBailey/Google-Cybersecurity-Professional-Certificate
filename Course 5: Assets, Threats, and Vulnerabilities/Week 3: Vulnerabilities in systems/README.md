@@ -28,7 +28,7 @@
 ## Cyber attacker mindset
 - Protect all entry points
 - [Approach cybersecurity with an attacker mindset](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%203:%20Vulnerabilities%20in%20systems/Approach%20cybersecurity%20with%20an%20attacker%20mindset)
-- Types of threat actors
+- [Types of threat actors](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%203:%20Vulnerabilities%20in%20systems/Types%20of%20threat%20actors)
 - Niru: Adopt an attacker mindset
 - Pathways through defenses
 - **Practice Quiz:** Self-reflection: Approach cybersecurity with an attacker mindset
