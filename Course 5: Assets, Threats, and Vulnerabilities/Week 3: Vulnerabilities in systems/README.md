@@ -14,7 +14,7 @@
 - Defense in depth strategy
 - Common vulnerabilities and exposures
 - [The OWASP Top 10](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%203:%20Vulnerabilities%20in%20systems/The%20OWASP%20Top%2010)
-- Open source intelligence
+- [Open source intelligence](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%203:%20Vulnerabilities%20in%20systems/Open%20source%20intelligence)
 - **Practice Quiz:** Test your knowledge: Flaws in the system
 ## Identify system vulnerabilities
 - Vulnerability assessments
