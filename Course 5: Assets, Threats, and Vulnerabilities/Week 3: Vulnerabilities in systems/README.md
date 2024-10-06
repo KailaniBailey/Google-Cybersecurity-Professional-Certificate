@@ -34,7 +34,7 @@
 - **Practice Quiz:** Self-reflection: Approach cybersecurity with an attacker mindset
 - Fortify against brute force cyber attacks
 - **Practice Quiz:** Activity: Identify the attack vectors of a USB drive
-- Activity Exemplar: Identify the attack vectors of a USB drive
+- Activity Exemplar: [Identify the attack vectors of a USB drive](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%203%3A%20Vulnerabilities%20in%20systems/Parking%20lot%20USB%20exercise%20exemplar.pdf)
 - **Practice Quiz:** Test your knowledge: Cyber attacker mindset
 ## Review: Vulnerabilities in systems
 - Wrap-up
