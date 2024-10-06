@@ -21,7 +21,7 @@
 - [Approaches to vulnerability scanning](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%203:%20Vulnerabilities%20in%20systems/Approaches%20to%20vulnerability%20scanning)
 - [The importance of updates](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%203:%20Vulnerabilities%20in%20systems/The%20importance%20of%20updates)
 - Omad: My learning journey into cybersecurity
-- Penetration testing
+- [Penetration testing](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%203:%20Vulnerabilities%20in%20systems/Penetration%20testing)
 - **Practice Quiz:** Test your knowledge: Identify system vulnerabilities
 - **Pracitce Quiz:** Portfolio Activity: Analyze a vulnerable system for a small business (100%)
 - Portfolio Activity Exemplar: [Analyze a vulnerable system for a small business](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%203%3A%20Vulnerabilities%20in%20systems/Vulnerability%20assessment%20report%20exemplar.pdf)
