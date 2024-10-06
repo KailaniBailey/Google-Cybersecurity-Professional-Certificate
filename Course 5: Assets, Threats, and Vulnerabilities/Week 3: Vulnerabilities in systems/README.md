@@ -24,7 +24,7 @@
 - Penetration testing
 - **Practice Quiz:** Test your knowledge: Identify system vulnerabilities
 - **Pracitce Quiz:** Portfolio Activity: Analyze a vulnerable system for a small business
-- Portfolio Activity Exemplar: Analyze a vulnerable system for a small business
+- Portfolio Activity Exemplar: [Analyze a vulnerable system for a small business](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%203%3A%20Vulnerabilities%20in%20systems/Vulnerability%20assessment%20report%20exemplar.pdf)
 ## Cyber attacker mindset
 - Protect all entry points
 - Approach cybersecurity with an attacker mindset
