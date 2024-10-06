@@ -19,7 +19,7 @@
 ## Identify system vulnerabilities
 - Vulnerability assessments
 - [Approaches to vulnerability scanning](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%203:%20Vulnerabilities%20in%20systems/Approaches%20to%20vulnerability%20scanning)
-- The importance of updates
+- [The importance of updates](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%203:%20Vulnerabilities%20in%20systems/The%20importance%20of%20updates)
 - Omad: My learning journey into cybersecurity
 - Penetration testing
 - **Practice Quiz:** Test your knowledge: Identify system vulnerabilities
