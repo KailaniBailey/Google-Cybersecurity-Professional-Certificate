@@ -39,4 +39,4 @@
 ## Review: Vulnerabilities in systems
 - Wrap-up
 - [Glossary terms from module 3](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%203:%20Vulnerabilities%20in%20systems/Glossary%20terms%20from%20module%203)
-- **Graded Quiz:** Module 3 challenge
+- **Graded Quiz:** Module 3 challenge (100%)
