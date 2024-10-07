@@ -31,7 +31,7 @@
 - [Types of threat actors](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%203:%20Vulnerabilities%20in%20systems/Types%20of%20threat%20actors)
 - Niru: Adopt an attacker mindset
 - Pathways through defenses
-- **Practice Quiz:** Self-reflection: Approach cybersecurity with an attacker mindset
+- **Practice Quiz:** Self-reflection: Approach cybersecurity with an attacker mindset (100%)
 - [Fortify against brute force cyber attacks](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%203:%20Vulnerabilities%20in%20systems/Fortify%20against%20brute%20force%20cyber%20attacks)
 - **Practice Quiz:** Activity: Identify the attack vectors of a USB drive (100%)
 - Activity Exemplar: [Identify the attack vectors of a USB drive](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%203%3A%20Vulnerabilities%20in%20systems/Parking%20lot%20USB%20exercise%20exemplar.pdf)
