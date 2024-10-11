@@ -10,7 +10,7 @@
 ## Social engineering
 - Welcome to module 4
 - The criminal art of persuasion
-- Social engineering tactics
+- [Social engineering tactics](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%204:%20Threats%20to%20asset%20security/Social%20engineering%20tactics)
 - Phishing for information
 - Types of phishing
 - **Practice Quiz:** Test your knowledge: Social engineering
