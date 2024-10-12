@@ -33,8 +33,8 @@
 - PASTA: The Process for Attack Simulation and Threat Analysis
 - Traits of an effective threat model
 - Explore: Apply PASTA to an application's threat model
-- **Practice Quiz:** Activity: Apply the PASTA threat model framework
-- Activity Exemplar: Apply the PASTA threat model framework
+- **Practice Quiz:** Activity: Apply the PASTA threat model framework (100%)
+- Activity Exemplar: Apply the PASTA threat model framework 
 - **Practice Quiz:** Test your knowledge: Threat modeling
 ## Review: Threats in cybersecurity
 - Wrap-up
