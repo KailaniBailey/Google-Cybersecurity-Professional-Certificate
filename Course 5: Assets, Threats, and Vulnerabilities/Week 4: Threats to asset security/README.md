@@ -19,7 +19,7 @@
 - Malicious software
 - [An introduction to malware](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%204:%20Threats%20to%20asset%20security/An%20introduction%20to%20malware)
 - The rise of cryptojacking
-- **Practice Quiz:** Test your knowledge: Malware
+- **Practice Quiz:** Test your knowledge: Malware (100%)
 ## Web-based exploits
 - Cross-site scripting (XSS)
 - Exploitable gaps in databases
