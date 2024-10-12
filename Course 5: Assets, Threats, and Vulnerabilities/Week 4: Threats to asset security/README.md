@@ -23,7 +23,7 @@
 ## Web-based exploits
 - Cross-site scripting (XSS)
 - Exploitable gaps in databases
-- Prevent injection attacks
+- [Prevent injection attacks](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%204%3A%20Threats%20to%20asset%20security/Prevent%20injection%20attacks)
 - The upward trend of cyber crime
 - **Practice Quiz:** Test your knowledge: Web-based exploits
 ## Threat modeling
