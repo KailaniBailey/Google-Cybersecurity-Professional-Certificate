@@ -42,6 +42,6 @@
 - **Graded Quiz:** Module 4 challenge
 ## Congratulations on completing course 5
 - Course wrap-up
-- Course 5 glossary
+- [Course 5 glossary](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%204%3A%20Threats%20to%20asset%20security/Course%205%20glossary.pdf)
 - Your Course 5 learning journey
 - Get started on the next course
