@@ -13,7 +13,7 @@
 - [Social engineering tactics](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%204:%20Threats%20to%20asset%20security/Social%20engineering%20tactics)
 - Phishing for information
 - [Types of phishing](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%204:%20Threats%20to%20asset%20security/Types%20of%20phishing)
-- **Practice Quiz:** Test your knowledge: Social engineering
+- **Practice Quiz:** Test your knowledge: Social engineering (100%)
 - **Practice Quiz:** Activity: Filter malicious emails
 ## Malware
 - Malicious software
