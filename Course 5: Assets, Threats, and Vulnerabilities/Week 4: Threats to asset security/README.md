@@ -38,7 +38,7 @@
 - **Practice Quiz:** Test your knowledge: Threat modeling
 ## Review: Threats in cybersecurity
 - Wrap-up
-- Glossary terms from module 4
+- [Glossary terms from module 4](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%204:%20Threats%20to%20asset%20security/Glossary%20terms%20from%20module%204)
 - **Graded Quiz:** Module 4 challenge
 ## Congratulations on completing course 5
 - Course wrap-up
