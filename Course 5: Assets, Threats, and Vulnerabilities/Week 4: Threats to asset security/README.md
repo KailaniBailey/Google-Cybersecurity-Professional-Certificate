@@ -34,7 +34,7 @@
 - Traits of an effective threat model
 - Explore: Apply PASTA to an application's threat model
 - **Practice Quiz:** Activity: Apply the PASTA threat model framework (100%)
-- Activity Exemplar: Apply the PASTA threat model framework 
+- Activity Exemplar: [Apply the PASTA threat model framework](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%204%3A%20Threats%20to%20asset%20security/PASTA%20worksheet%20exemplar.pdf)
 - **Practice Quiz:** Test your knowledge: Threat modeling
 ## Review: Threats in cybersecurity
 - Wrap-up
