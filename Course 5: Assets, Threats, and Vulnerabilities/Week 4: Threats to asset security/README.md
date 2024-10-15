@@ -31,7 +31,7 @@
 - Identify: Steps of the threat model process
 - Chantelle: The value of diversity in cybersecurity
 - PASTA: The Process for Attack Simulation and Threat Analysis
-- Traits of an effective threat model
+- [Traits of an effective threat model](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%204:%20Threats%20to%20asset%20security/Traits%20of%20an%20effective%20threat%20model)
 - Explore: Apply PASTA to an application's threat model
 - **Practice Quiz:** Activity: Apply the PASTA threat model framework (100%)
 - Activity Exemplar: [Apply the PASTA threat model framework](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%204%3A%20Threats%20to%20asset%20security/PASTA%20worksheet%20exemplar.pdf)
