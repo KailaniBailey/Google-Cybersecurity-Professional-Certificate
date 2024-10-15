@@ -22,4 +22,4 @@ Course 5 of 8 in the Google Cybersecurity Professional Certificate
 ## Final Exam
 # Course 5 Completion Certificate:
 Please [click here] to verify the Google certificate. <br>
-*Coming Soon...*
+![assetsThreatsVulnerabilities](https://github.com/user-attachments/assets/aa904171-82e6-4f66-84ab-e0571fd55a08)
