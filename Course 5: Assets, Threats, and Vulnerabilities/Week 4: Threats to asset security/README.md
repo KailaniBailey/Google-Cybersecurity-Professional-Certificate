@@ -39,7 +39,7 @@
 ## Review: Threats in cybersecurity
 - Wrap-up
 - [Glossary terms from module 4](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%204:%20Threats%20to%20asset%20security/Glossary%20terms%20from%20module%204)
-- **Graded Quiz:** Module 4 challenge
+- **Graded Quiz:** Module 4 challenge (100%)
 ## Congratulations on completing course 5
 - Course wrap-up
 - [Course 5 glossary](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%204%3A%20Threats%20to%20asset%20security/Course%205%20glossary.pdf)
