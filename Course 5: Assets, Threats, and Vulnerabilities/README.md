@@ -8,6 +8,16 @@ In this course, you will explore the concepts of assets, threats, and vulnerabil
 Google employees who currently work in cybersecurity will guide you through videos, provide hands-on activities and examples that simulate common cybersecurity tasks, and help you build your skills to prepare for jobs. 
 
 Learners who complete this certificate will be equipped to apply for entry-level cybersecurity roles. No previous experience is necessary.
+
+By the end of this course, you will: 
+- Learn effective data handling processes.
+- Discuss the role of encryption and hashing in securing assets.
+- Describe how to effectively use authentication and authorization. 
+- Explain how common vulnerability exposures are identified by MITRE.
+- Analyze an attack surface to find risks and vulnerabilities.
+- Identify threats, such as social engineering, malware, and web-based exploits.
+- Summarize the threat modeling process.
+
 ## Syllabus for Course 5
 - Week 1: [Introduction to asset security](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%201:%20Introduction%20to%20asset%20security)
 - Week 2: [Protect organizational assets](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%202:%20Protect%20organizational%20assets)
