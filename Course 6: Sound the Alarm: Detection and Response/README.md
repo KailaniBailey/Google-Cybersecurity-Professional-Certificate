@@ -36,7 +36,6 @@ By the end of this course, you will:
 - Following a playbook
 - Examining alerts, logs, and rules
 - Performing queries with SIEM tools
-## Final Assignment
 ## Final Exam
 # Course 6 Completion Certificate:
 Please [click here] to verify the Google certificate. <br>
