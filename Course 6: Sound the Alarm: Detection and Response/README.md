@@ -21,7 +21,7 @@ By the end of this course, you will:
 
 ## Syllabus for Course 6
 - Week 1: [Introduction to detection and incident response](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Introduction%20to%20detection%20and%20incident%20response)
-- Week 2: Network monitoring and analysis
+- Week 2: [Network monitoring and analysis](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Network%20monitoring%20and%20analysis)
 - Week 3: Incident investigation and response
 - Week 4: Network traffic and logs using IDS and SIEM tools
 ## Summary of Tasks
