@@ -20,6 +20,7 @@ Course 5 of 8 in the Google Cybersecurity Professional Certificate
 - Analyzing attack surfaces
 - Applying the PASTA threat modeling framework
 ## Final Exam
+100%
 # Course 5 Completion Certificate:
 Please [click here](https://coursera.org/share/871a53d191468aa4e730077078339178) to verify the Google certificate. <br>
 ![assetsThreatsVulnerabilities](https://github.com/user-attachments/assets/aa904171-82e6-4f66-84ab-e0571fd55a08)
