@@ -24,7 +24,7 @@
 - Cross-site scripting (XSS)
 - Exploitable gaps in databases
 - [Prevent injection attacks](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205%3A%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Week%204%3A%20Threats%20to%20asset%20security/Prevent%20injection%20attacks)
-- The upward trend of cyber crime
+- [The upward trend of cyber crime](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%205:%20Assets,%20Threats,%20and%20Vulnerabilities/Week%204:%20Threats%20to%20asset%20security/The%20upward%20trend%20of%20cyber%20crime)
 - **Practice Quiz:** Test your knowledge: Web-based exploits
 ## Threat modeling
 - A proactive approach to security
