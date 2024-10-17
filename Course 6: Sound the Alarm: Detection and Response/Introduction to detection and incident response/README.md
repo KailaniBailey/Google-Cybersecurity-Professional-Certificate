@@ -34,5 +34,5 @@
 - **Practice Quiz:** Test your knowledge: Management tools
 ## Review: Introduction to detection and incident response
 - Wrap-up
-- Glossary terms from module 1
+- [Glossary terms from module 1](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Introduction%20to%20detection%20and%20incident%20response/Glossary%20terms%20from%20module%201)
 - **Graded Quiz:** Module 1 challenge
