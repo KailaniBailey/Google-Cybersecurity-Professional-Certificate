@@ -18,5 +18,18 @@
 - Portfolio Activity Exemplar: Document an incident with an incident handler's journal
 - **Practice Quiz:** Test your knowledge: The incident response lifecycle
 ## Incident response operations
+- Incident response teams
+- Fatima: The importance of communication during incident response
+- Roles in response
+- Incident response plans
+- **Practice Quiz:** Test your knowledge: Incident response operations
 ## Incident response tools
+- Incident response tools
+- The value of documentation
+- Intrusion detection systems
+- Overview of detection tools
+- **Practice Quiz:** Test your knowledge: Detection and documentation tools
+- Alert and event management with SIEM and SOAR tools
+- Overview of SIEM technology
+- **Practice Quiz:** Test your knowledge: Management tools
 ## Review: Introduction to detection and incident response
