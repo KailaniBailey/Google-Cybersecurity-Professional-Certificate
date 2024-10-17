@@ -33,3 +33,6 @@
 - Overview of SIEM technology
 - **Practice Quiz:** Test your knowledge: Management tools
 ## Review: Introduction to detection and incident response
+- Wrap-up
+- Glossary terms from module 1
+- **Graded Quiz:** Module 1 challenge
