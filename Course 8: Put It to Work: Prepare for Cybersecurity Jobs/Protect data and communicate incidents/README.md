@@ -7,3 +7,7 @@
 - Determine incidents that need to be escalated to stakeholders.
 - Recognize the sensitive nature of secured assets and data.
 - Explain how having an ethical security mindset supports an entry-level security analyst’s ability to protect secured assets and data
+## Get started with the course
+## Event and incident detection
+## Your impact on data protection
+## Review: Protect assets and communicate incidents
