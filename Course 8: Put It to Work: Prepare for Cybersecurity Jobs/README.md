@@ -18,6 +18,11 @@ By the end of this course, you will:
 - Find and apply for cybersecurity jobs.
 - Prepare for job interviews.
 ## Syllabus for Course 8
+- Week 1: Protect data and communicate incidents
+- Week 2: Escalate incidents
+- Week 3: Communicate effectively to influence stakeholders
+- Week 4: Engage with the cybersecurity community
+- Week 5: Find and apply for cybersecurity jobs
 ## Summary of Tasks
 - Define stakeholders and describe their security roles
 - Communicate sensitive information with care and confidentiality
