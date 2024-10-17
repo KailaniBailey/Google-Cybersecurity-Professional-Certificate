@@ -20,7 +20,7 @@ By the end of this course, you will:
 ## Syllabus for Course 8
 - Week 1: [Protect data and communicate incidents](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Protect%20data%20and%20communicate%20incidents)
 - Week 2: [Escalate incidents](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Escalate%20incidents)
-- Week 3: Communicate effectively to influence stakeholders
+- Week 3: [Communicate effectively to influence stakeholders](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Communicate%20effectively%20to%20influence%20stakeholders)
 - Week 4: Engage with the cybersecurity community
 - Week 5: Find and apply for cybersecurity jobs
 ## Summary of Tasks
