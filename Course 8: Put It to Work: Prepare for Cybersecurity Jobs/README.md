@@ -35,7 +35,6 @@ By the end of this course, you will:
 - Creating or updating a resume
 - Using the STAR method for interview questions
 - Drafting an elevator pitch
-## Final Assignment
 ## Final Exam
 # Course 8 Completion Certificate:
 Please [click here] to verify the Google certificate. <br>
