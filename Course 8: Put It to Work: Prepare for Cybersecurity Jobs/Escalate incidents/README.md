@@ -6,6 +6,13 @@
 - Recognize the impact various security incidents have on business operations.
 - Determine when and how to escalate a security incident.
 ## Escalation in cybersecurity
+- Welcome to module 2
+- The importance of escalation
+- Escalate with a purpose
 ## To escalate or not to escalate
+- Prepare to escalate through security recognition
+- Recognize roles and responsibilites during escalation
+- Identify: Analyze cybersecurity incidents and their impact
+- **Practice Quiz:** Test your knowledge: To escalate or not to escalate
 ## Timing is everything
 ## Review: Escalate incidents
