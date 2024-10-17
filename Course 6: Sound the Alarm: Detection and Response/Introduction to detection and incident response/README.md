@@ -5,6 +5,11 @@
 - Determine the roles and responsibilities of incident response teams.
 - Describe the tools used in the documentation, detection, and management of incidents.
 ## Get started with the course
+- Introduction to Course 6
+- Course 6 overview
+- Helpful resources and tips
+- Dave: Grow your cybersecurity career with mentors
+- Connect with your classmates
 ## The incident response lifecycle
 ## Incident response operations
 ## Incident response tools
