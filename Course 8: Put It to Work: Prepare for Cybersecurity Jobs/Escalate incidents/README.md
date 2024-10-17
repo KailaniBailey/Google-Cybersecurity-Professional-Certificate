@@ -15,4 +15,10 @@
 - Identify: Analyze cybersecurity incidents and their impact
 - **Practice Quiz:** Test your knowledge: To escalate or not to escalate
 ## Timing is everything
+- From simple activity to major data breach
+- When and how to escalate a security incident
+- Escalation timing
+- Juliana's story: Attention to detail
+- Incident prioritization
+- **Practice Quiz:** Test your knowledge: Timing is everything
 ## Review: Escalate incidents
