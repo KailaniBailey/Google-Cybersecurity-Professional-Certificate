@@ -22,7 +22,7 @@ By the end of this course, you will:
 - Week 2: [Escalate incidents](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Escalate%20incidents)
 - Week 3: [Communicate effectively to influence stakeholders](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Communicate%20effectively%20to%20influence%20stakeholders)
 - Week 4: [Engage with the cybersecurity community](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Engage%20with%20the%20cybersecurity%20community)
-- Week 5: Find and apply for cybersecurity jobs
+- Week 5: [Find and apply for cybersecurity jobs](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Find%20and%20apply%20for%20cybersecurity%20jobs)
 ## Summary of Tasks
 - Define stakeholders and describe their security roles
 - Communicate sensitive information with care and confidentiality
