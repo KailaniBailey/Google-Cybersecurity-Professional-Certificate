@@ -22,3 +22,6 @@
 - Incident prioritization
 - **Practice Quiz:** Test your knowledge: Timing is everything
 ## Review: Escalate incidents
+- Wrap-up
+- Glossary terms for module 2
+- **Graded Quiz:** Module 2 challenge
