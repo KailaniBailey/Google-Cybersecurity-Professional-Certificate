@@ -16,7 +16,7 @@
 - Explore: Apply the NIST lifecycle to a vishing scenario
 - **Graded Quiz:** Portfolio Activity: Document an incident with an incident handler's journal (100%)
 - Portfolio Activity Exemplar: Document an incident with an incident handler's journal
-- **Practice Quiz:** Test your knowledge: The incident response lifecycle
+- **Practice Quiz:** Test your knowledge: The incident response lifecycle (100%)
 ## Incident response operations
 - Incident response teams
 - Fatima: The importance of communication during incident response
