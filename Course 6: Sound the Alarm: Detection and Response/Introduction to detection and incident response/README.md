@@ -14,7 +14,7 @@
 - Welcome to module 1
 - Introduction to the incident response lifecycle
 - Explore: Apply the NIST lifecycle to a vishing scenario
-- **Graded Quiz:** Portfolio Activity: Document an incident with an incident handler's journal
+- **Graded Quiz:** Portfolio Activity: Document an incident with an incident handler's journal (100%)
 - Portfolio Activity Exemplar: Document an incident with an incident handler's journal
 - **Practice Quiz:** Test your knowledge: The incident response lifecycle
 ## Incident response operations
