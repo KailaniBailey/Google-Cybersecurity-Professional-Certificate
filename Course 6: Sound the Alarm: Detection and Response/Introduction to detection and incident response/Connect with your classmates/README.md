@@ -10,4 +10,4 @@ For this discussion, consider the following questions:
 Please write a short paragraph (50-100 words) describing your thoughts about cybersecurity incidents. 
 
 ## My Response
-> Enter
+> I'm most excited to learn about incident detection and response as a whole. I don't know much about them in terms of security and am looking forward to reading about procedures and processes that I'm relatively unfamiliar with. As far as skills that I think are most important for a cybersecurity professional working in incident detection and response, I would have to say communication, speed, and precision. For example, these response actions are great for a security professional to exercise when seeking out malicious activity from threat actors and when responding to malware or hacking or other attacks.
