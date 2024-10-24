@@ -20,7 +20,7 @@
 ## Incident response operations
 - Incident response teams
 - Fatima: The importance of communication during incident response
-- Roles in response
+- [Roles in response](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Introduction%20to%20detection%20and%20incident%20response/Roles%20in%20response)
 - Incident response plans
 - **Practice Quiz:** Test your knowledge: Incident response operations
 ## Incident response tools
