@@ -9,5 +9,5 @@ For this discussion, consider the following questions:
 
 Please write a short paragraph (50-100 words) describing your thoughts about cybersecurity incidents. 
 
-## My Reponse
+## My Response
 > Enter
