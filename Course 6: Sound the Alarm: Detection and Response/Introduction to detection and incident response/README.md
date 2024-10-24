@@ -27,7 +27,7 @@
 - Incident response tools
 - The value of documentation
 - Intrusion detection systems
-- Overview of detection tools
+- [Overview of detection tools](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Introduction%20to%20detection%20and%20incident%20response/Overview%20of%20detection%20tools)
 - **Practice Quiz:** Test your knowledge: Detection and documentation tools
 - Alert and event management with SIEM and SOAR tools
 - Overview of SIEM technology
