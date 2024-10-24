@@ -9,7 +9,7 @@
 - Course 6 overview
 - Helpful resources and tips
 - Dave: Grow your cybersecurity career with mentors
-- Connect with your classmates
+- [Connect with your classmates](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206%3A%20Sound%20the%20Alarm%3A%20Detection%20and%20Response/Introduction%20to%20detection%20and%20incident%20response/Connect%20with%20your%20classmates)
 ## The incident response lifecycle
 - Welcome to module 1
 - Introduction to the incident response lifecycle
