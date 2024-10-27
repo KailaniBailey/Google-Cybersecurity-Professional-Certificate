@@ -33,5 +33,5 @@
 - Activity Exemplar: Research network protocol analyzers
 ## Review: Network monitoring and analysis
 - Wrap-up
-- Glossary terms from module 2
+- [Glossary terms from module 2](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Network%20monitoring%20and%20analysis/Glossary%20terms%20from%20module%202)
 - **Graded Quiz:** Module 2 challenge
