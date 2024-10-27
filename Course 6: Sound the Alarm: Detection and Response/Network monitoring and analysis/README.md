@@ -24,6 +24,13 @@
 - Optional Exemplar: Analyze your first packet
 - **Practice Quiz:** Test your knowledge: Capture and view network traffic
 ## Packet inspection
+- Packet captures with tcpdump
+- Overview of tcpdump
+- Activity: Capture your first packet
+- Optional Exemplar: Capture your first packet
+- **Practice Quiz:** Test your knowlege: Packet inspection
+- **Practice Quiz:** Activity: Research network protocol analyzers
+- Activity Exemplar: Research network protocol analyzers
 ## Review: Network monitoring and analysis
 - Wrap-up
 - Glossary terms from module 2
