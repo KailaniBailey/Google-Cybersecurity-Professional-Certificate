@@ -6,6 +6,15 @@
 - Analyze packets to interpret network communications.
 
 ## Understand network traffic
+- Welcome to module 2
+- Casey: Apply soft skills in cybersecurity
+- The importance of network traffic flows
+- Maintain awareness with network monitoring
+- Data exfiltration attacks
+- **Practice Quiz:** Test your knowledge: Understand network traffic
 ## Capture and view network traffic
 ## Packet inspection
 ## Review: Network monitoring and analysis
+- Wrap-up
+- Glossary terms from module 2
+- **Graded Quiz:** Module 2 challenge
