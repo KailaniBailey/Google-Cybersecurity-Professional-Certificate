@@ -9,7 +9,7 @@
 - Welcome to module 2
 - Casey: Apply soft skills in cybersecurity
 - The importance of network traffic flows
-- Maintain awareness with network monitoring
+- [Maintain awareness with network monitoring](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Network%20monitoring%20and%20analysis/Maintain%20awareness%20with%20network%20monitoring)
 - Data exfiltration attacks
 - **Practice Quiz:** Test your knowledge: Understand network traffic
 ## Capture and view network traffic
