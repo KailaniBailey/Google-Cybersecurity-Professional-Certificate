@@ -13,6 +13,16 @@
 - Data exfiltration attacks
 - **Practice Quiz:** Test your knowledge: Understand network traffic
 ## Capture and view network traffic
+- Packets and packet captures
+- Learn more about packet captures
+- Interpret network communications with packets
+- Reexamine the fields of a packet header
+- Investigate packet details
+- Resources for completing labs
+- Lab tips and troubleshooting steps
+- Activity: Analyze your first packet
+- Optional Exemplar: Analyze your first packet
+- **Practice Quiz:** Test your knowledge: Capture and view network traffic
 ## Packet inspection
 ## Review: Network monitoring and analysis
 - Wrap-up
