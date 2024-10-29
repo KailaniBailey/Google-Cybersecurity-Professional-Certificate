@@ -17,7 +17,7 @@
 - [Learn more about packet captures](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Network%20monitoring%20and%20analysis/Learn%20more%20about%20packet%20captures)
 - Interpret network communications with packets
 - Reexamine the fields of a packet header
-- Investigate packet details
+- [Investigate packet details](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Network%20monitoring%20and%20analysis/Investigate%20packet%20details)
 - Resources for completing labs
 - Lab tips and troubleshooting steps
 - Activity: Analyze your first packet
