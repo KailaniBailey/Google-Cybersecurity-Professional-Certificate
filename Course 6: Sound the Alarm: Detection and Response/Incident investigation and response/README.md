@@ -25,5 +25,11 @@
 - **Practice Quiz:** Activity: Use a playbook to respond to a phishing incident
 - Activity Exemplar: Use a playbook to respond to a phishing incident
 ## Response and recovery
+- The role of triage in incident response
+- Robin: Foster cross-team collaboration
+- The triage process
+- The containment, eradication, and recovery phase of the lifecycle
+- Business continuity considerations
+- **Practice Quiz:** Test your knowledge: Response and recovery
 ## Post-incident actions
 ## Review: Incident investigation and response
