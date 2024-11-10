@@ -7,6 +7,16 @@
 - Identify the steps to contain, eradicate, and recover from an incident.
 - Describe the processes and procedures involved in the post-incident phase.
 ## Incident detection and verification
+- Welcome to module 3
+- The detection and analysis phase of the lifecycle
+- Cybersecurity incident detection methods
+- MK: Changes in the cybersecurity industry
+- Indicators of compromise
+- Identify: Indicators of compromise
+- Analyze indicators of compromise with investigative tools
+- **Practice Quiz:** Activity: Investigate a suspicious file hash
+- Activity Exemplar: Investigate a suspicious file hash
+- **Practice Quiz:** Test your knowledge: Incident detection and verification
 ## Create and use documentation
 ## Response and recovery
 ## Post-incident actions
