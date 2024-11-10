@@ -25,7 +25,7 @@
 - **Practice Quiz:** Test your knowledge: Capture and view network traffic (100%)
 ## Packet inspection
 - Packet captures with tcpdump
-- Overview of tcpdump
+- [Overview of tcpdump](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Network%20monitoring%20and%20analysis/Overview%20of%20tcpdump)
 - Activity: Capture your first packet
 - Optional Exemplar: Capture your first packet
 - **Practice Quiz:** Test your knowlege: Packet inspection
