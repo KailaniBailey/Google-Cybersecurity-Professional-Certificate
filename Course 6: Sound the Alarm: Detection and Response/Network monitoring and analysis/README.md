@@ -22,7 +22,7 @@
 - Lab tips and troubleshooting steps
 - Activity: Analyze your first packet
 - Optional Exemplar: Analyze your first packet
-- **Practice Quiz:** Test your knowledge: Capture and view network traffic
+- **Practice Quiz:** Test your knowledge: Capture and view network traffic (100%)
 ## Packet inspection
 - Packet captures with tcpdump
 - Overview of tcpdump
