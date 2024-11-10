@@ -28,7 +28,7 @@
 - [Overview of tcpdump](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Network%20monitoring%20and%20analysis/Overview%20of%20tcpdump)
 - Activity: Capture your first packet
 - Optional Exemplar: Capture your first packet
-- **Practice Quiz:** Test your knowlege: Packet inspection
+- **Practice Quiz:** Test your knowlege: Packet inspection (100%)
 - **Practice Quiz:** Activity: Research network protocol analyzers (100%)
 - Activity Exemplar: [Research network protocol analyzers](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%206%3A%20Sound%20the%20Alarm%3A%20Detection%20and%20Response/Network%20monitoring%20and%20analysis/Diagram%20exemplar.pdf)
 ## Review: Network monitoring and analysis
