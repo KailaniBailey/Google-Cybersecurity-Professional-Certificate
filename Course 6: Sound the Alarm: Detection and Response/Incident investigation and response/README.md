@@ -18,6 +18,12 @@
 - Activity Exemplar: Investigate a suspicious file hash
 - **Practice Quiz:** Test your knowledge: Incident detection and verification
 ## Create and use documentation
+- The benefits of documentation
+- Document evidence with chain of custody forms
+- Best practices for effective documentation
+- The value of cybersecurity playbooks
+- **Practice Quiz:** Activity: Use a playbook to respond to a phishing incident
+- Activity Exemplar: Use a playbook to respond to a phishing incident
 ## Response and recovery
 ## Post-incident actions
 ## Review: Incident investigation and response
