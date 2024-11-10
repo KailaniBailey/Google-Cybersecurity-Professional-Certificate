@@ -29,7 +29,7 @@
 - Activity: Capture your first packet
 - Optional Exemplar: Capture your first packet
 - **Practice Quiz:** Test your knowlege: Packet inspection
-- **Practice Quiz:** Activity: Research network protocol analyzers
+- **Practice Quiz:** Activity: Research network protocol analyzers (100%)
 - Activity Exemplar: Research network protocol analyzers
 ## Review: Network monitoring and analysis
 - Wrap-up
