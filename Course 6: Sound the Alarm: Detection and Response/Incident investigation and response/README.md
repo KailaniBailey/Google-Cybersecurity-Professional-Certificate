@@ -9,7 +9,7 @@
 ## Incident detection and verification
 - Welcome to module 3
 - The detection and analysis phase of the lifecycle
-- Cybersecurity incident detection methods
+- [Cybersecurity incident detection methods](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Incident%20investigation%20and%20response/Cybersecurity%20incident%20detection%20methods)
 - MK: Changes in the cybersecurity industry
 - Indicators of compromise
 - Identify: Indicators of compromise
