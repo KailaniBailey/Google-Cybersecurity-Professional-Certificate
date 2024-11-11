@@ -32,4 +32,12 @@
 - Business continuity considerations
 - **Practice Quiz:** Test your knowledge: Response and recovery
 ## Post-incident actions
+- The post-incident activity phase of the lifecycle
+- Post-incident review
+- **Practice Quiz:** Activity: Review a final report
+- Identify: Explore an incident event timeline
+- **Practice Quiz:** Test your knowlege: Post-incident actions
 ## Review: Incident investigation and response
+- Wrap-up
+- Glossary terms from module 3
+- **Graded Quiz:** Module 3 challenge
