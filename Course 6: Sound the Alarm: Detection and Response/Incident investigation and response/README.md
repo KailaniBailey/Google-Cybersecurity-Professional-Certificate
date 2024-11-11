@@ -39,5 +39,5 @@
 - **Practice Quiz:** Test your knowlege: Post-incident actions
 ## Review: Incident investigation and response
 - Wrap-up
-- Glossary terms from module 3
+- [Glossary terms from module 3](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206%3A%20Sound%20the%20Alarm%3A%20Detection%20and%20Response/Incident%20investigation%20and%20response/Glossary%20terms%20from%20module%203)
 - **Graded Quiz:** Module 3 challenge
