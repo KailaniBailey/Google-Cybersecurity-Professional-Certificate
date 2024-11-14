@@ -22,7 +22,7 @@
 - Document evidence with chain of custody forms
 - Best practices for effective documentation
 - The value of cybersecurity playbooks
-- **Practice Quiz:** Activity: Use a playbook to respond to a phishing incident
+- **Practice Quiz:** Activity: Use a playbook to respond to a phishing incident (100%)
 - Activity Exemplar: Use a playbook to respond to a phishing incident
 ## Response and recovery
 - The role of triage in incident response
