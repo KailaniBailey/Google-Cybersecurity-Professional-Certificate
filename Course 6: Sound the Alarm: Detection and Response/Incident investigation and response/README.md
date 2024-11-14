@@ -14,7 +14,7 @@
 - [Indicators of compromise](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Incident%20investigation%20and%20response/Indicators%20of%20compromise)
 - Identify: Indicators of compromise
 - [Analyze indicators of compromise with investigative tools](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Incident%20investigation%20and%20response/Analyze%20indicators%20of%20compromise%20with%20investigative%20tools)
-- **Practice Quiz:** Activity: Investigate a suspicious file hash
+- **Practice Quiz:** Activity: Investigate a suspicious file hash (100%)
 - Activity Exemplar: Investigate a suspicious file hash
 - **Practice Quiz:** Test your knowledge: Incident detection and verification
 ## Create and use documentation
