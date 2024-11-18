@@ -29,5 +29,14 @@
 - Optional Exemplar: Explore signatures and logs with Suricata
 - **Practice Quiz:** Test your knowledge: Overview of intrusion detection systems (IDS)
 ## Overview of security information event management (SIEM) tools
+- Reexamine SIEM tools
+- Log sources and log ingestion
+- Query for events with Splunk
+- Query for events with Chronicle
+- Search methods with SIEM tools
+- Follow-along guide for Splunk sign-up
+- **Practice Quiz:** Activity: Perform a query with Splunk
+- **Practice Quiz:** Activity: Perform a query with Chronicle
+- **Practice Quiz:** Test your knowledge: Overview of SIEM tools
 ## Review: Network traffic and logs using IDS and SIEM tools
 ## Congratulations on completing Course 6!
