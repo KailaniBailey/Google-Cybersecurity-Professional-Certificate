@@ -29,7 +29,7 @@
 - Robin: Foster cross-team collaboration
 - [The triage process](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Incident%20investigation%20and%20response/The%20triage%20process)
 - The containment, eradication, and recovery phase of the lifecycle
-- Business continuity considerations
+- [Business continuity considerations](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Incident%20investigation%20and%20response/Business%20continuity%20considerations)
 - **Practice Quiz:** Test your knowledge: Response and recovery
 ## Post-incident actions
 - The post-incident activity phase of the lifecycle
