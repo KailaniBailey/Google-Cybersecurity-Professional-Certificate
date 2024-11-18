@@ -7,8 +7,16 @@
 - Interpret the basic syntax and components of signatures and logs in IDS and NIDS tools.
 - Describe how SIEM tools collect, normalize, and analyze log data.
 - Perform queries in SIEM tools to investigate an incident.
-
 ## Overview of logs
+- Welcome to module 4
+- The importance of logs
+- Best practices for log collection and management
+- **Practice Quiz:** Test your knowledge: Overview of logs
+- Rebecca: Learn new tools and technologies
+- Variations of logs
+- Overview of log file formats
+- Identify: Match log files to their file format
+- **Practice Quiz:** Test your knowledge: Log components and formats
 ## Overview of intrusion detection systems (IDS)
 ## Overview of security information event management (SIEM) tools
 ## Review: Network traffic and logs using IDS and SIEM tools
