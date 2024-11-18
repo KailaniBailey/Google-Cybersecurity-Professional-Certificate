@@ -45,3 +45,7 @@
 - **Graded Quiz:** Portfolio Activity: Finalize your incident handler's journal
 - Portfolio Activity Exemplar: Finalize your incident handler's journal
 ## Congratulations on completing Course 6!
+- Reflect and connect with peers
+- Course wrap-up
+- Course 6 glossary
+- Get started on the next course
