@@ -39,4 +39,9 @@
 - **Practice Quiz:** Activity: Perform a query with Chronicle
 - **Practice Quiz:** Test your knowledge: Overview of SIEM tools
 ## Review: Network traffic and logs using IDS and SIEM tools
+- Wrap-up
+- Glossary terms from module 4
+- **Graded Quiz:** Module 4 challenge
+- **Graded Quiz:** Portfolio Activity: Finalize your incident handler's journal
+- Portfolio Activity Exemplar: Finalize your incident handler's journal
 ## Congratulations on completing Course 6!
