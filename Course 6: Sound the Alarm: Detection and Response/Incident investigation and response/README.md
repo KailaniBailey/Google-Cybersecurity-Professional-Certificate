@@ -36,7 +36,7 @@
 - [Post-incident review](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Incident%20investigation%20and%20response/Post-incident%20review)
 - **Practice Quiz:** Activity: Review a final report (100%)
 - Identify: Explore an incident event timeline
-- **Practice Quiz:** Test your knowlege: Post-incident actions
+- **Practice Quiz:** Test your knowlege: Post-incident actions (100%)
 ## Review: Incident investigation and response
 - Wrap-up
 - [Glossary terms from module 3](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206%3A%20Sound%20the%20Alarm%3A%20Detection%20and%20Response/Incident%20investigation%20and%20response/Glossary%20terms%20from%20module%203)
