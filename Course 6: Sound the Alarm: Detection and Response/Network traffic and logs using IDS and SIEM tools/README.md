@@ -18,6 +18,16 @@
 - Identify: Match log files to their file format
 - **Practice Quiz:** Test your knowledge: Log components and formats
 ## Overview of intrusion detection systems (IDS)
+- Security monitoring with detection tools
+- Detection tools and techniques
+- Grace: Security mindset in detection and response
+- Components of a detection signature
+- Examine signatures with Suricata
+- Examine Suricata logs
+- Overview of Suricata
+- Activity: Explore signatures and logs with Suricata
+- Optional Exemplar: Explore signatures and logs with Suricata
+- **Practice Quiz:** Test your knowledge: Overview of intrusion detection systems (IDS)
 ## Overview of security information event management (SIEM) tools
 ## Review: Network traffic and logs using IDS and SIEM tools
 ## Congratulations on completing Course 6!
