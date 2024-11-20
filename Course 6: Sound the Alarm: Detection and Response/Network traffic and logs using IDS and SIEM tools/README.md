@@ -19,7 +19,7 @@
 - **Practice Quiz:** Test your knowledge: Log components and formats (100%)
 ## Overview of intrusion detection systems (IDS)
 - Security monitoring with detection tools
-- Detection tools and techniques
+- [Detection tools and techniques](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Network%20traffic%20and%20logs%20using%20IDS%20and%20SIEM%20tools/Detection%20tools%20and%20techniques)
 - Grace: Security mindset in detection and response
 - Components of a detection signature
 - Examine signatures with Suricata
