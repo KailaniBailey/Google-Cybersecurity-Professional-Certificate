@@ -47,5 +47,5 @@
 ## Congratulations on completing Course 6!
 - Reflect and connect with peers
 - Course wrap-up
-- Course 6 glossary
+- [Course 6 glossary](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%206%3A%20Sound%20the%20Alarm%3A%20Detection%20and%20Response/Network%20traffic%20and%20logs%20using%20IDS%20and%20SIEM%20tools/Course%206%20glossary.pdf)
 - Get started on the next course
