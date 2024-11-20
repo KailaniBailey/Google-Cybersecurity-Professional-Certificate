@@ -33,7 +33,7 @@
 - [Log sources and log ingestion](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Network%20traffic%20and%20logs%20using%20IDS%20and%20SIEM%20tools/Log%20sources%20and%20log%20ingestion)
 - Query for events with Splunk
 - Query for events with Chronicle
-- Search methods with SIEM tools
+- [Search methods with SIEM tools](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Network%20traffic%20and%20logs%20using%20IDS%20and%20SIEM%20tools/Search%20methods%20with%20SIEM%20tools)
 - Follow-along guide for Splunk sign-up
 - **Practice Quiz:** Activity: Perform a query with Splunk
 - **Practice Quiz:** Activity: Perform a query with Chronicle
