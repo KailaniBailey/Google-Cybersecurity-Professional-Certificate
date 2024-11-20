@@ -14,7 +14,7 @@
 - **Practice Quiz:** Test your knowledge: Overview of logs
 - Rebecca: Learn new tools and technologies
 - Variations of logs
-- Overview of log file formats
+- [Overview of log file formats](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Network%20traffic%20and%20logs%20using%20IDS%20and%20SIEM%20tools/Overview%20of%20log%20file%20formats)
 - Identify: Match log files to their file format
 - **Practice Quiz:** Test your knowledge: Log components and formats
 ## Overview of intrusion detection systems (IDS)
