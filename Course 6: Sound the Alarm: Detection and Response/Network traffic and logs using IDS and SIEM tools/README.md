@@ -40,7 +40,7 @@
 - **Practice Quiz:** Test your knowledge: Overview of SIEM tools
 ## Review: Network traffic and logs using IDS and SIEM tools
 - Wrap-up
-- Glossary terms from module 4
+- [Glossary terms from module 4](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%206:%20Sound%20the%20Alarm:%20Detection%20and%20Response/Network%20traffic%20and%20logs%20using%20IDS%20and%20SIEM%20tools/Glossary%20terms%20from%20module%204)
 - **Graded Quiz:** Module 4 challenge
 - **Graded Quiz:** Portfolio Activity: Finalize your incident handler's journal
 - Portfolio Activity Exemplar: Finalize your incident handler's journal
