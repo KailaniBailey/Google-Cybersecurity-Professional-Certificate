@@ -43,3 +43,7 @@
 - Lab Exemplar: Create loops
 - **Practice Assignment:** Test your knowledge: Conditional and iterative statements
 ## Review: Introduction to Python
+- Wrap-up
+- Reference guide: Python concepts from module 1
+- Glossary terms from module 1
+- **Graded Quiz:** Module 1 challenge
