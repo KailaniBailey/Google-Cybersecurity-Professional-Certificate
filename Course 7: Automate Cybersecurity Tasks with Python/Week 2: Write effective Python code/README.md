@@ -30,3 +30,7 @@
 - Dorsa: Use Python efficiently on a cybersecurity team
 - **Practice Quiz:** Test your knowledge: Learn from the Python community
 ## Review: Write effective Python code
+- Wrap-up
+- Reference guide: Python concepts from module 2
+- Glossary terms from module 2
+- **Graded Quiz:** Module 2 challenge
