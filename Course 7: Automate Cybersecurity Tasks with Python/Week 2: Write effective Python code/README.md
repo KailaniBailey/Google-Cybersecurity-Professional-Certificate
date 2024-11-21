@@ -6,6 +6,13 @@
 - Explain how modules are used in Python.
 - Identify best practices to improve code readability.
 ## Introduction to functions
+- Welcome to module 2
+- Introduction to functions
+- Create a basic function
+- Python functions in cybersecurity
+- Lab Activity: Define and call a function
+- Lab Exemplar: Define and call a function
+- **Practice Quiz:** Test your knowledge: Introduction to functions
 ## Work with functions
 ## Learn from the Python community
 ## Review: Write effective Python code
