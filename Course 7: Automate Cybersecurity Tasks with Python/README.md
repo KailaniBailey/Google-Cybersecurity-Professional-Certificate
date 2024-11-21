@@ -10,7 +10,7 @@ Course 7 of 8 in the Google Cybersecurity Professional Certificate
 > Learners who complete this certificate will be equipped to apply for entry-level cybersecurity roles. No previous experience is necessary.
 ## Syllabus for Course 7
 - **Week 1:** [Introduction to Python](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%207:%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%201:%20Introduction%20to%20Python)
-- **Week 2:** Write effective Python code
+- **Week 2:** [Write effective Python code](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%207:%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%202:%20Write%20effective%20Python%20code)
 - **Week 3:** Work with strings and lists
 - **Week 4:** Python in practice
 ## Summary of Tasks
