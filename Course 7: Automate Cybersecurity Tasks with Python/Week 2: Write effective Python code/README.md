@@ -14,5 +14,19 @@
 - Lab Exemplar: Define and call a function
 - **Practice Quiz:** Test your knowledge: Introduction to functions
 ## Work with functions
+- Use parameters in functions
+- Return statements
+- Functions and variables
+- Explore built-in functions
+- Work with built-in functions
+- Lab Activity: Create more functions
+- Lab Exemplar: Create more functions
+- **Practice Quiz:** Test your knowledge: Arguments, parameters, and return statements
 ## Learn from the Python community
+- Modules and libraries
+- Import modules and libraries in Python
+- Code readability
+- Ensure proper syntax and readability in Python
+- Dorsa: Use Python efficiently on a cybersecurity team
+- **Practice Quiz:** Test your knowledge: Learn from the Python community
 ## Review: Write effective Python code
