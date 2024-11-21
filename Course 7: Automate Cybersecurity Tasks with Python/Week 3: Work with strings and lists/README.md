@@ -21,4 +21,9 @@
 - Lab Exemplar: Develop an algorithm
 - **Practice Quiz:** Test your knowledge: Work with lists and develop algorithms
 ## Regular expressions
+- Regular expressions in Python
+- More about regular expressions
+- Lab Activity: Use regular expressions to find patterns
+- Lab Exemplar: Use regular expressions to find patterns
+- **Practice Quiz:** Test your knowledge: Regular expressions
 ## Review: Work with strings and lists
