@@ -12,7 +12,7 @@ Course 7 of 8 in the Google Cybersecurity Professional Certificate
 - **Week 1:** [Introduction to Python](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%207:%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%201:%20Introduction%20to%20Python)
 - **Week 2:** [Write effective Python code](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%207:%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%202:%20Write%20effective%20Python%20code)
 - **Week 3:** [Work with strings and lists](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%207:%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%203:%20Work%20with%20strings%20and%20lists)
-- **Week 4:** Python in practice
+- **Week 4:** [Python in practice](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%207:%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%204:%20Python%20in%20practice)
 ## Summary of Tasks
 - Explain how the Python programming language is used in cybersecurity
 - Write conditional and iterative statements in Python
