@@ -12,6 +12,16 @@
 - Angel: My personal career journey
 - Helpful resources and tips
 ## Introduction to Python programming in cybersecurity
+- Welcome to module 1
+- Python and cybersecurity
+- Get to know Python
+- Create a basic Python script
+- Python environments
+- Lab tips and troubleshooting steps
+- Lab Activity: Practice writing Python code
+- Lab Examplar: Practice writing Python code
+- Akash: Python and the cybersecurity professional
+- **Practice Quiz:** Test your knowledge: Introduction to Python programming in cybersecurity
 ## Core Python components
 ## Conditional and iterative statements
 ## Review: Introduction to Python
