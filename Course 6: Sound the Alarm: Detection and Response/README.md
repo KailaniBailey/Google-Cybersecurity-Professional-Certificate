@@ -36,7 +36,6 @@ By the end of this course, you will:
 - Following a playbook
 - Examining alerts, logs, and rules
 - Performing queries with SIEM tools
-## Final Exam
-# Course 6 Completion Certificate:
+# Course 6 Completion Certificate
 Please [click here](https://coursera.org/share/fa9aabf1288c54cb276395ea68686fd4) to verify the Google certificate. <br>
 ![SoundTheAlarm](https://github.com/user-attachments/assets/2421d901-bed7-480c-923c-2e92ee9502ef)
