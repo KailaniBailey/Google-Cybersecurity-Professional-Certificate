@@ -25,8 +25,6 @@ Course 7 of 8 in the Google Cybersecurity Professional Certificate
 - Applying regular expressions (regex)
 - Importing and parsing a file
 - Debugging code
-## Final Assignment
-## Final Exam
 # Course 7 Completion Certificate:
 Please [click here] to verify the Google certificate. <br>
 *Coming Soon...*
