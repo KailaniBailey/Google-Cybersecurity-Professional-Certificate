@@ -33,4 +33,13 @@
 - Lab Exemplar: Debug Python code
 - **Practice Quiz:** Test your knowledge: Debug Python code
 ## Review: Python in practice
+- Wrap-up
+- Reference guide: Python concepts from week 4
+- Glossary terms from module 4
+- **Graded Quiz:** Module 4 challenge
 ## Congratulations on completing Course 7!
+- Reflect and connect with peers
+- Course wrap-up
+- Reference guide: Python concepts from Course 7
+- Course 7 glossary
+- Get started on the next course
