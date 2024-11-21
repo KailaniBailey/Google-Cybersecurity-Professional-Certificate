@@ -7,6 +7,10 @@
 - Write conditional statements in Python.
 - Write iterative statements in Python.
 ## Get started with the course
+- Introduction to Course 7
+- Course 7 overview
+- Angel: My personal career journey
+- Helpful resources and tips
 ## Introduction to Python programming in cybersecurity
 ## Core Python components
 ## Conditional and iterative statements
