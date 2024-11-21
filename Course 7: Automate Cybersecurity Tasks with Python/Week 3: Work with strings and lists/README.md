@@ -5,6 +5,14 @@
 - Write a simple algorithm.
 - Use regular expressions to extract information from text.
 ## Working with strings
+- Welcome to module 3
+- String operations
+- String indices and slices
+- Strings and the security analyst
+- Practice: Work with index values
+- Lab Activity: Work with strings in Python
+- Lab Exemplar: Work with strings in Python
+- **Practice Quiz:** Test your knowledge: Work with strings
 ## Work with lists and develop algorithms
 ## Regular expressions
 ## Review: Work with strings and lists
