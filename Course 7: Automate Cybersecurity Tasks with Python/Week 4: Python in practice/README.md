@@ -25,5 +25,12 @@
 - Portfolio Activity Exemplar: Update a file through a Python algorithm
 - **Practice Quiz:** Test your knowledge: Work with files in Python
 ## Debug Python code
+- Debugging strategies
+- Matt: Learning from mistakes
+- Apply debugging strategies
+- Explore debugging techniques
+- Lab Activity: Debug Python code
+- Lab Exemplar: Debug Python code
+- **Practice Quiz:** Test your knowledge: Debug Python code
 ## Review: Python in practice
 ## Congratulations on completing Course 7!
