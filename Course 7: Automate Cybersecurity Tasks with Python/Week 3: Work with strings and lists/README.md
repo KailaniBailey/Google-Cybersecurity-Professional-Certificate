@@ -14,5 +14,11 @@
 - Lab Exemplar: Work with strings in Python
 - **Practice Quiz:** Test your knowledge: Work with strings
 ## Work with lists and develop algorithms
+- List operations in Python
+- Write a simple algorithm
+- Lists and the security analyst
+- Lab Activity: Develop an algorithm
+- Lab Exemplar: Develop an algorithm
+- **Practice Quiz:** Test your knowledge: Work with lists and develop algorithms
 ## Regular expressions
 ## Review: Work with strings and lists
