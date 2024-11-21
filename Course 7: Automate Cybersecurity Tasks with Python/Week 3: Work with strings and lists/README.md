@@ -27,3 +27,7 @@
 - Lab Exemplar: Use regular expressions to find patterns
 - **Practice Quiz:** Test your knowledge: Regular expressions
 ## Review: Work with strings and lists
+- Wrap-up
+- Reference guide: Python concepts from module 3
+- Glossary terms from module 3
+- **Graded Quiz:** Module 3 challenge
