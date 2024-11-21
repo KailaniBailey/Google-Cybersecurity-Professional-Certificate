@@ -23,5 +23,12 @@
 - Akash: Python and the cybersecurity professional
 - **Practice Quiz:** Test your knowledge: Introduction to Python programming in cybersecurity
 ## Core Python components
+- Data types in Python
+- More about data types
+- Work with variables in Python
+- Assign and reassign variables in Python
+- Lab Activity: Assign Python variables
+- Lab Exemplar: Assign Python variables
+- **Practice Quiz:** Test your knowledge: Core Python components
 ## Conditional and iterative statements
 ## Review: Introduction to Python
