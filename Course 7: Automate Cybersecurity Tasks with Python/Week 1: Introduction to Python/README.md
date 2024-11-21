@@ -31,4 +31,15 @@
 - Lab Exemplar: Assign Python variables
 - **Practice Quiz:** Test your knowledge: Core Python components
 ## Conditional and iterative statements
+- Conditional statements in Python
+- More on conditionals in Python
+- Lab Activity: Create a conditional statement
+- Lab Exemplar: Create a conditional statement
+- For loops
+- While loops
+- More on loops in Python
+- Identify: Select the correct iterative statement
+- Lab Activity: Create loops
+- Lab Exemplar: Create loops
+- **Practice Assignment:** Test your knowledge: Conditional and iterative statements
 ## Review: Introduction to Python
