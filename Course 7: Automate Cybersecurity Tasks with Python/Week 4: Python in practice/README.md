@@ -6,6 +6,11 @@
 - Use Python to parse a file.
 - Practice debugging code.
 ## Python for automation
+- Welcome to module 4
+- Automate cybersecurity tasks with Python
+- Essential Python components for automation
+- Clancy: Continual learning and Python
+- **Practice Quiz:** Test your knowledge: Python and automation
 ## Work with files in Python
 ## Debug Python code
 ## Review: Python in practice
