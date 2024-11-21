@@ -2,6 +2,10 @@
 Course 7 of 8 in the Google Cybersecurity Professional Certificate
 # About This Course
 ## Syllabus for Course 7
+- Week 1:
+- Week 2:
+- Week 3:
+- Week 4:
 ## Summary of Tasks
 - Explain how the Python programming language is used in security
 - Write a simple algorithm
