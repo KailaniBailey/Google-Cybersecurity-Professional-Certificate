@@ -11,7 +11,7 @@
 - [Escalate with a purpose](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Escalate%20incidents/Escalate%20with%20a%20purpose)
 ## To escalate or not to escalate
 - Prepare to escalate through security recognition
-- Recognize roles and responsibilites during escalation
+- [Recognize roles and responsibilities during escalation](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Escalate%20incidents/Recognize%20roles%20and%20responsibilities%20during%20escalation)
 - Identify: Analyze cybersecurity incidents and their impact
 - **Practice Quiz:** Test your knowledge: To escalate or not to escalate
 ## Timing is everything
