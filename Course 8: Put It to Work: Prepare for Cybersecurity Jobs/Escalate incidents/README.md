@@ -8,7 +8,7 @@
 ## Escalation in cybersecurity
 - Welcome to module 2
 - The importance of escalation
-- Escalate with a purpose
+- [Escalate with a purpose](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Escalate%20incidents/Escalate%20with%20a%20purpose)
 ## To escalate or not to escalate
 - Prepare to escalate through security recognition
 - Recognize roles and responsibilites during escalation
