@@ -18,13 +18,13 @@
 - Security as a mindset
 - Data and asset classification
 - Explore: Asset protection
-- **Practice Quiz:** Test your knowledge: Event and incident detection
+- **Practice Quiz:** Test your knowledge: Event and incident detection (100%)
 ## Your impact on data protection
 - Detect and protect without neglect
 - Disaster recovery and business continuity
 - Juliana's story: Asset protection
 - Embrace your role in handling sensitive data
-- **Practice Quiz:** Test your knowlege: Your impact on data protection
+- **Practice Quiz:** Test your knowlege: Your impact on data protection (100%)
 ## Review: Protect assets and communicate incidents
 - Wrap-up
 - Glossary terms from module 1
