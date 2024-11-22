@@ -13,8 +13,55 @@
 - Portfolio Activity Exemplar: Create or update a resume
 - Garvey: Cover letter tips
 ## The cybersecurity job interview process
+- Explore the interview process
+- The interview process
+- Garvey: Technical interview tips
+- Prepare for technical interviews
+- Conduct pre-interview research
+- Build rapport with interviewers
+- **Practice Quiz:** Test your knowledge: The cybersecurity job interview process
 ## Answer interview questions
+- Use strategies to answer interview questions
+- Apply the STAR method during interviews
+- **Practice Quiz:** Activity: Use the STAR method to answer interview questions
+- Activity Exemplar: Use the STAR method to answer interview questions
+- Prepare for interviews
+- Ask the interviewer questions
+- Karan: Interview tips from a hiring manager
+- Prepare for interviews with Interview Warmup
+- **Practice Quiz:** Answer interview questions
 ## Develop an elevator pitch
+- Develop an elevator pitch
+- Learn more about developing an elevator pitch
+- **Practice Quiz:** Activity: Draft an elevator pitch
+- Activity Exemplar: Draft an elevator pitch
+- Tips for interviewing remotely
+- Emily: Overcome imposter syndrome
+- **Practice Quiz:** Test your knowledge: Develop an elevator pitch
 ## Review: Find and apply for cybersecurity jobs
+- Wrap-up
+- Glossary terms from module 5
+- **Graded Quiz:** Module 5 challenge
+- Course wrap-up
+- Course 8 glossary
 ## AI in Cybersecurity
+- Introduction to AI in Cybersecurity
+- Use generative AI to work smarter and faster
+- Boost your cybersecurity skills with AI
+- Decode complex security frameworks with AI
+- Use AI to help identify bugs
+- Refine code with help from AI
+- Understand system vulnerabilities with AI
+- Prioritize alerts with AI
+- **Practice Assignment:** Activity: Use generative AI to list common signs of phishing and malware
+- Key takeaways from AI in Cybersecurity
+- Introducting Google AI Essentials
+- Take the next step with Google AI Essentials
 ## Certificate wrap-up
+- Recap of the Google Cybersecurity Certificate program
+- Congratulations on completing the Google Cybersecurity Certificate program!
+- Showcase your work
+- Claim your Google Cybersecurity Certificate badge!
+- Resources for Google Cybersecurity Certificate graduates
+- Google Cybersecurity Certificate glossary
+- End-of-course survey
