@@ -16,7 +16,7 @@
 ## Event and incident detection
 - Welcome to module 1
 - Security as a mindset
-- Data and asset classification
+- [Data and asset classification](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Protect%20data%20and%20communicate%20incidents/Data%20and%20asset%20classification)
 - Explore: Asset protection
 - **Practice Quiz:** Test your knowledge: Event and incident detection (100%)
 ## Your impact on data protection
