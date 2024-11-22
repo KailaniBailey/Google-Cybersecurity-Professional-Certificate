@@ -13,7 +13,7 @@
 - Prepare to escalate through security recognition
 - [Recognize roles and responsibilities during escalation](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Escalate%20incidents/Recognize%20roles%20and%20responsibilities%20during%20escalation)
 - Identify: Analyze cybersecurity incidents and their impact
-- **Practice Quiz:** Test your knowledge: To escalate or not to escalate
+- **Practice Quiz:** Test your knowledge: To escalate or not to escalate (100%)
 ## Timing is everything
 - From simple activity to major data breach
 - When and how to escalate a security incident
