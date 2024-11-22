@@ -19,7 +19,7 @@
 - When and how to escalate a security incident
 - [Escalation timing](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Escalate%20incidents/Escalation%20timing)
 - Juliana's story: Attention to detail
-- **Practice Quiz:** Test your knowledge: Timing is everything
+- **Practice Quiz:** Test your knowledge: Timing is everything (100%)
 ## Review: Escalate incidents
 - Wrap-up
 - Glossary terms for module 2
