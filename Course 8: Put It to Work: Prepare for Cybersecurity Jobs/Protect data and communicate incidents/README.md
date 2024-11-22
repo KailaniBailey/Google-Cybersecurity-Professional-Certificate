@@ -28,4 +28,4 @@
 ## Review: Protect assets and communicate incidents
 - Wrap-up
 - [Glossary terms from module 1](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Protect%20data%20and%20communicate%20incidents/Glossary%20terms%20from%20module%201/README.md)
-- **Graded Quiz:** Module 1 challenge
+- **Graded Quiz:** Module 1 challenge (90%)
