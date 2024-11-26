@@ -23,5 +23,5 @@
 - **Practice Quiz:** Test your knowledge: Communicate effectively with stakeholders (100%)
 ## Review: Communicate effectively to influence stakeholders
 - Wrap-up
-- Glossary terms from module 3
+- [Glossary terms from module 3](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Communicate%20effectively%20to%20influence%20stakeholders/Glossary%20terms%20from%20module%203)
 - **Graded Quiz:** Module 3 challenge (100%)
