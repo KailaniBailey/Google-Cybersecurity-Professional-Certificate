@@ -14,7 +14,7 @@
 - Clear and concise communication
 - Building blocks of cybersecurity communications
 - [Communicate effectively with stakeholders](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Communicate%20effectively%20to%20influence%20stakeholders/Communicate%20effectively%20with%20stakeholders)
-- **Practice Quiz:** Test your knowledge: Communicate for impact
+- **Practice Quiz:** Test your knowledge: Communicate for impact (100%)
 ## Visual communication using a dashboard
 - Visual storytelling in cybersecurity
 - [Create visual dashboards for impactful cybersecurity communications](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Communicate%20effectively%20to%20influence%20stakeholders/Create%20visual%20dashboards%20for%20impactful%20cybersecurity%20communications)
