@@ -34,7 +34,7 @@
 - Develop an elevator pitch
 - Learn more about developing an elevator pitch
 - **Practice Quiz:** Activity: Draft an elevator pitch
-- Activity Exemplar: Draft an elevator pitch
+- Activity Exemplar: [Draft an elevator pitch](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%208%3A%20Put%20It%20to%20Work%3A%20Prepare%20for%20Cybersecurity%20Jobs/Find%20and%20apply%20for%20cybersecurity%20jobs/Elevator%20pitch%20exemplar.pdf)
 - Tips for interviewing remotely
 - Emily: Overcome imposter syndrome
 - **Practice Quiz:** Test your knowledge: Develop an elevator pitch
