@@ -8,7 +8,7 @@
 - Find cybersecurity jobs
 - What is your career identity?
 - Create a resume
-- Tips for finding and applying for a job
+- [Tips for finding and applying for a job](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Find%20and%20apply%20for%20cybersecurity%20jobs/Tips%20for%20finding%20and%20applying%20for%20a%20job)
 - **Graded Quiz:** Portfolio Activity: Create or update a resume
 - Portfolio Activity Exemplar: Create or update a resume
 - Garvey: Cover letter tips
