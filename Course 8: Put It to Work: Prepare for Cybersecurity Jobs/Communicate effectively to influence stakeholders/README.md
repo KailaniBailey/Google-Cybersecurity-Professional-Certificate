@@ -8,7 +8,7 @@
 ## Understand your stakeholders
 - Welcome to module 3
 - Stakeholders in cybersecurity
-- The purpose and impact of stakeholders
+- [The purpose and impact of stakeholders](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Communicate%20effectively%20to%20influence%20stakeholders/The%20purpose%20and%20impact%20of%20stakeholders)
 - Explore: Stakeholder roles and responsibilities
 ## Communicate for impact
 - Clear and concise communication
