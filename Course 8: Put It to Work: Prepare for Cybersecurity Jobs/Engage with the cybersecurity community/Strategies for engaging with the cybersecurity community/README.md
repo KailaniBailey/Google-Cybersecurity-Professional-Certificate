@@ -15,7 +15,7 @@ What security organization should you join? This question depends on your specif
 Once you understand what your interests are, do a web search for organizations or conferences in your area. For example, you can type in “incident response cybersecurity conferences in my area.” This search will give you a list of cybersecurity conferences focused on incident response. If you’re interested in forensic security, you can type “forensic security organizations in my area” or a similar phrase into your web search engine. No matter what your interests are, you can do a web search online to find a cybersecurity organization or conference focused on that area.   
 
 ### Use social media 
-Social media is another great way to find cybersecurity organizations or conferences. [LinkedIn]®, for example, is a social media platform that connects business professionals with one another. You can use LinkedIn® to find security groups or organizations to join. In the LinkedIn® search bar, you can try search queries such as:
+Social media is another great way to find cybersecurity organizations or conferences. [LinkedIn](https://www.linkedin.com/)®, for example, is a social media platform that connects business professionals with one another. You can use LinkedIn® to find security groups or organizations to join. In the LinkedIn® search bar, you can try search queries such as:
 
 - “Incident response cybersecurity groups”
 - “Organizations for cybersecurity analysts” 
