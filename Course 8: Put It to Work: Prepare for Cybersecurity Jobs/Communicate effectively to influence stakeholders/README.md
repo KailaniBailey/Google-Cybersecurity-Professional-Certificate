@@ -24,4 +24,4 @@
 ## Review: Communicate effectively to influence stakeholders
 - Wrap-up
 - Glossary terms from module 3
-- **Graded Quiz:** Module 3 challenge
+- **Graded Quiz:** Module 3 challenge (100%)
