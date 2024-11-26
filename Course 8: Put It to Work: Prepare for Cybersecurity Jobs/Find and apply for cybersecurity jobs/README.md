@@ -63,5 +63,5 @@
 - Showcase your work
 - Claim your Google Cybersecurity Certificate badge!
 - Resources for Google Cybersecurity Certificate graduates
-- Google Cybersecurity Certificate glossary
+- [Google Cybersecurity Certificate glossary](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%208%3A%20Put%20It%20to%20Work%3A%20Prepare%20for%20Cybersecurity%20Jobs/Find%20and%20apply%20for%20cybersecurity%20jobs/Google%20Cybersecurity%20Certificate%20glossary.pdf)
 - End-of-course survey
