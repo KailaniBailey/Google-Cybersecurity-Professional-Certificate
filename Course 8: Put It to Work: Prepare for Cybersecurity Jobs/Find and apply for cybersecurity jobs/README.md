@@ -40,7 +40,7 @@
 - **Practice Quiz:** Test your knowledge: Develop an elevator pitch
 ## Review: Find and apply for cybersecurity jobs
 - Wrap-up
-- Glossary terms from module 5
+- [Glossary terms from module 5](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Find%20and%20apply%20for%20cybersecurity%20jobs/Glossary%20terms%20from%20module%205/README.md)
 - **Graded Quiz:** Module 5 challenge
 - Course wrap-up
 - [Course 8 glossary](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%208%3A%20Put%20It%20to%20Work%3A%20Prepare%20for%20Cybersecurity%20Jobs/Find%20and%20apply%20for%20cybersecurity%20jobs/Course%208%20glossary.pdf)
