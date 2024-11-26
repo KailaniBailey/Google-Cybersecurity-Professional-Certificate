@@ -16,7 +16,7 @@
 - Explore the interview process
 - [The interview process](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Find%20and%20apply%20for%20cybersecurity%20jobs/The%20interview%20process)
 - Garvey: Technical interview tips
-- Prepare for technical interviews
+- [Prepare for technical interviews](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Find%20and%20apply%20for%20cybersecurity%20jobs/Prepare%20for%20technical%20interviews)
 - Conduct pre-interview research
 - Build rapport with interviewers
 - **Practice Quiz:** Test your knowledge: The cybersecurity job interview process
