@@ -22,7 +22,7 @@
 - **Practice Quiz:** Test your knowledge: The cybersecurity job interview process
 ## Answer interview questions
 - Use strategies to answer interview questions
-- Apply the STAR method during interviews
+- [Apply the STAR method during interviews](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208%3A%20Put%20It%20to%20Work%3A%20Prepare%20for%20Cybersecurity%20Jobs/Find%20and%20apply%20for%20cybersecurity%20jobs/Apply%20the%20STAR%20method%20during%20interviews)
 - **Practice Quiz:** Activity: Use the STAR method to answer interview questions
 - Activity Exemplar: Use the STAR method to answer interview questions
 - Prepare for interviews
