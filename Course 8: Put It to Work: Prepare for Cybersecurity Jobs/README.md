@@ -35,7 +35,6 @@ Course 8 of 8 in the Google Cybersecurity Professional Certificate
 - Creating or updating a resume
 - Using the STAR method for interview questions
 - Drafting an elevator pitch
-## Final Exam
-# Course 8 Completion Certificate:
+# Course 8 Completion Certificate
 Please [click here](https://www.coursera.org/account/accomplishments/verify/298WY0IYQ641) to verify the Google certificate. <br>
 ![Put it to work](https://github.com/user-attachments/assets/00013cd3-c7dc-42cc-b353-40b3bae86341)
