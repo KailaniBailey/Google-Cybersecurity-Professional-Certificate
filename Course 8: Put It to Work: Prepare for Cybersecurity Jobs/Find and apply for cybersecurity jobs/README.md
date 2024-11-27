@@ -9,7 +9,7 @@
 - What is your career identity?
 - Create a resume
 - [Tips for finding and applying for a job](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Find%20and%20apply%20for%20cybersecurity%20jobs/Tips%20for%20finding%20and%20applying%20for%20a%20job)
-- **Graded Quiz:** Portfolio Activity: Create or update a resume
+- **Graded Quiz:** Portfolio Activity: Create or update a resume (100%)
 - Portfolio Activity Exemplar: Create or update a resume
 - Garvey: Cover letter tips
 ## The cybersecurity job interview process
@@ -19,7 +19,7 @@
 - [Prepare for technical interviews](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Find%20and%20apply%20for%20cybersecurity%20jobs/Prepare%20for%20technical%20interviews)
 - Conduct pre-interview research
 - Build rapport with interviewers
-- **Practice Quiz:** Test your knowledge: The cybersecurity job interview process
+- **Practice Quiz:** Test your knowledge: The cybersecurity job interview process (100%)
 ## Answer interview questions
 - Use strategies to answer interview questions
 - [Apply the STAR method during interviews](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208%3A%20Put%20It%20to%20Work%3A%20Prepare%20for%20Cybersecurity%20Jobs/Find%20and%20apply%20for%20cybersecurity%20jobs/Apply%20the%20STAR%20method%20during%20interviews)
