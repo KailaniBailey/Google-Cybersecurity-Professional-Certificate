@@ -20,4 +20,4 @@
 ## Review: Engage with the cybersecurity community
 - Wrap-up
 - [Glossary terms from module 4](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Engage%20with%20the%20cybersecurity%20community/Glossary%20terms%20from%20module%204)
-- Module 4 challenge
+- Module 4 challenge (100%)
