@@ -11,7 +11,7 @@
 - [Strategies for engaging with the cybersecurity community](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Engage%20with%20the%20cybersecurity%20community/Strategies%20for%20engaging%20with%20the%20cybersecurity%20community)
 - Victoria: Continue your learning journey
 - **Practice Quiz:** Activity: Explore cybersecurity organizations
-- Activity Exemplar: Explore cybersecurity organizations
+- Activity Exemplar: Explore cybersecurity organizations (100%)
 ## Build your cybersecurity network
 - Engage with the cybersecurity community in a meaningful way
 - [Connect with other cybersecurity professionals](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%208:%20Put%20It%20to%20Work:%20Prepare%20for%20Cybersecurity%20Jobs/Engage%20with%20the%20cybersecurity%20community/Connect%20with%20other%20cybersecurity%20professionals)
