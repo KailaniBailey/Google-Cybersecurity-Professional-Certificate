@@ -44,6 +44,6 @@
 - **Practice Assignment:** Test your knowledge: Conditional and iterative statements
 ## Review: Introduction to Python
 - Wrap-up
-- Reference guide: Python concepts from module 1
+- Reference guide: [Python concepts from module 1](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%207%3A%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%201%3A%20Introduction%20to%20Python/Python%20concepts%20from%20module%201.pdf)
 - Glossary terms from module 1
 - **Graded Quiz:** Module 1 challenge
