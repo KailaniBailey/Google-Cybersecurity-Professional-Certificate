@@ -27,7 +27,7 @@
 - More about data types
 - Work with variables in Python
 - Assign and reassign variables in Python
-- Lab Activity: Assign Python variables
+- Lab Activity: [Assign Python variables](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%207%3A%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%201%3A%20Introduction%20to%20Python/Activity_Assign%20Python%20variables.ipynb)
 - Lab Exemplar: Assign Python variables
 - **Practice Quiz:** Test your knowledge: Core Python components
 ## Conditional and iterative statements
