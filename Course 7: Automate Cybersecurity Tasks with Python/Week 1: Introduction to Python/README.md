@@ -16,7 +16,7 @@
 - Python and cybersecurity
 - [Get to know Python](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%207%3A%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%201%3A%20Introduction%20to%20Python/Get%20to%20know%20Python)
 - Create a basic Python script
-- Python environments
+- [Python environments](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%207:%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%201:%20Introduction%20to%20Python/Python%20environments)
 - Lab tips and troubleshooting steps
 - Lab Activity: Practice writing Python code
 - Lab Examplar: Practice writing Python code
