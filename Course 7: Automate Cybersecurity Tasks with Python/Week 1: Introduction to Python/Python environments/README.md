@@ -11,7 +11,7 @@ Code cells are meant for writing and running code. A notebook provides a mechani
 Markdown cells are meant for describing the code. They allow you to format text in the markdown language. Markdown language is used for formatting plain text in text editors and code editors. For example, you might indicate that text should be in a certain header style. 
 
 ### Common notebook environments
-Two common notebook environments are [Jupyter Notebook] and [Google Colaboratory] (or Google Colab). They allow you to run several programming languages, including Python. 
+Two common notebook environments are [Jupyter Notebook](https://jupyter.org/about) and [Google Colaboratory](https://colab.research.google.com/) (or Google Colab). They allow you to run several programming languages, including Python. 
 
 ## Integrated development environments (IDEs)
 Another option for writing Python code is through an **integrated development environment (IDE)**, or a software application for writing code that provides editing assistance and error correction tools. Integrated development environments include a graphical user interface (GUI) that provides programmers with a variety of options to customize and build their programs. 
