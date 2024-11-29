@@ -32,7 +32,7 @@
 - **Practice Quiz:** Test your knowledge: Core Python components (100%)
 ## Conditional and iterative statements
 - Conditional statements in Python
-- More on conditionals in Python
+- [More on conditionals in Python](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%207:%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%201:%20Introduction%20to%20Python/More%20on%20conditionals%20in%20Python/README.md)
 - Lab Activity: Create a conditional statement
 - Lab Exemplar: Create a conditional statement
 - For loops
