@@ -12,7 +12,7 @@
 - Python functions in cybersecurity
 - Lab Activity: Define and call a function
 - Lab Exemplar: Define and call a function
-- **Practice Quiz:** Test your knowledge: Introduction to functions
+- **Practice Quiz:** Test your knowledge: Introduction to functions (100%)
 ## Work with functions
 - Use parameters in functions
 - Return statements
