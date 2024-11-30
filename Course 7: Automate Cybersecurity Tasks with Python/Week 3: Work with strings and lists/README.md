@@ -12,7 +12,7 @@
 - Practice: Work with index values
 - Lab Activity: Work with strings in Python
 - Lab Exemplar: Work with strings in Python
-- **Practice Quiz:** Test your knowledge: Work with strings
+- **Practice Quiz:** Test your knowledge: Work with strings (100%)
 ## Work with lists and develop algorithms
 - List operations in Python
 - Write a simple algorithm
