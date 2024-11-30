@@ -21,7 +21,7 @@
 - Work with built-in functions
 - Lab Activity: Create more functions
 - Lab Exemplar: Create more functions
-- **Practice Quiz:** Test your knowledge: Arguments, parameters, and return statements
+- **Practice Quiz:** Test your knowledge: Arguments, parameters, and return statements (100%)
 ## Learn from the Python community
 - Modules and libraries
 - Import modules and libraries in Python
