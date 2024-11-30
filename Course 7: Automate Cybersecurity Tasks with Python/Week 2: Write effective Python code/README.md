@@ -31,6 +31,6 @@
 - **Practice Quiz:** Test your knowledge: Learn from the Python community
 ## Review: Write effective Python code
 - Wrap-up
-- Reference guide: Python concepts from module 2
+- Reference guide: [Python concepts from module 2](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%207%3A%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%202%3A%20Write%20effective%20Python%20code/Python%20concepts%20from%20module%202.pdf)
 - Glossary terms from module 2
 - **Graded Quiz:** Module 2 challenge
