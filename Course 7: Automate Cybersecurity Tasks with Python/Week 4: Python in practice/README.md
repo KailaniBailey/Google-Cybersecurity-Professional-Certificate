@@ -41,5 +41,5 @@
 - Reflect and connect with peers
 - Course wrap-up
 - Reference guide: [Python concepts from Course 7](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%207%3A%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%204%3A%20Python%20in%20practice/Python%20concepts%20from%20module%204.pdf)
-- Course 7 glossary
+- [Course 7 glossary](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%207%3A%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%204%3A%20Python%20in%20practice/Course%207%20glossary.pdf)
 - Get started on the next course
