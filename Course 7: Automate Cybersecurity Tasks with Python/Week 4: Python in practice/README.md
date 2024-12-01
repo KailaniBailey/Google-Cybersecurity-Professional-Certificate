@@ -23,7 +23,7 @@
 - Lab Exemplar: Create another algorithm
 - **Graded Quiz:** Portfolio Activity: Update a file through a Python algorithm (100%)
 - Portfolio Activity Exemplar: Update a file through a Python algorithm
-- **Practice Quiz:** Test your knowledge: Work with files in Python
+- **Practice Quiz:** Test your knowledge: Work with files in Python (100%)
 ## Debug Python code
 - Debugging strategies
 - Matt: Learning from mistakes
