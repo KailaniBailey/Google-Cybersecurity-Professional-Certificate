@@ -31,7 +31,7 @@
 - Explore debugging techniques
 - Lab Activity: Debug Python code
 - Lab Exemplar: Debug Python code
-- **Practice Quiz:** Test your knowledge: Debug Python code
+- **Practice Quiz:** Test your knowledge: Debug Python code (100%)
 ## Review: Python in practice
 - Wrap-up
 - Reference guide: Python concepts from week 4
