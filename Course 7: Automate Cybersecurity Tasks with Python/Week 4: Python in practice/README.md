@@ -10,7 +10,7 @@
 - Automate cybersecurity tasks with Python
 - Essential Python components for automation
 - Clancy: Continual learning and Python
-- **Practice Quiz:** Test your knowledge: Python and automation
+- **Practice Quiz:** Test your knowledge: Python and automation (100%)
 ## Work with files in Python
 - Access a text file in Python
 - Import files into Python
