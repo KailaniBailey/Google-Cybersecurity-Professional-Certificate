@@ -36,7 +36,7 @@
 - Wrap-up
 - Reference guide: [Python concepts from week 4](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%207%3A%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%204%3A%20Python%20in%20practice/Python%20concepts%20from%20module%204.pdf)
 - [Glossary terms from module 4](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%207:%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%204:%20Python%20in%20practice/Glossary%20terms%20from%20module%204)
-- **Graded Quiz:** Module 4 challenge
+- **Graded Quiz:** Module 4 challenge (90%)
 ## Congratulations on completing Course 7!
 - Reflect and connect with peers
 - Course wrap-up
