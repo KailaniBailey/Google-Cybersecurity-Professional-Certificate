@@ -26,5 +26,5 @@ Course 7 of 8 in the Google Cybersecurity Professional Certificate
 - Importing and parsing a file
 - Debugging code
 # Course 7 Completion Certificate:
-Please [click here] to verify the Google certificate. <br>
-*Coming Soon...*
+Please [click here](https://www.coursera.org/account/accomplishments/verify/N6PND5SY1QA2) to verify the Google certificate. <br>
+![AutomateWithPython](https://github.com/user-attachments/assets/141a728f-3b9c-490f-bc13-fbdf50fd81c2)
