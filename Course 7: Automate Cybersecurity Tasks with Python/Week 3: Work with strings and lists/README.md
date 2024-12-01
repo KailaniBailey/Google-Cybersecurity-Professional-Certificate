@@ -19,7 +19,7 @@
 - Lists and the security analyst
 - Lab Activity: Develop an algorithm
 - Lab Exemplar: Develop an algorithm
-- **Practice Quiz:** Test your knowledge: Work with lists and develop algorithms
+- **Practice Quiz:** Test your knowledge: Work with lists and develop algorithms (100%)
 ## Regular expressions
 - Regular expressions in Python
 - More about regular expressions
