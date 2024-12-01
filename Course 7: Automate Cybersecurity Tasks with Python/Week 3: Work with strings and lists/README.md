@@ -22,7 +22,7 @@
 - **Practice Quiz:** Test your knowledge: Work with lists and develop algorithms (100%)
 ## Regular expressions
 - Regular expressions in Python
-- More about regular expressions
+- [More about regular expressions](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%207:%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%203:%20Work%20with%20strings%20and%20lists/More%20about%20regular%20expressions)
 - Lab Activity: Use regular expressions to find patterns
 - Lab Exemplar: Use regular expressions to find patterns
 - **Practice Quiz:** Test your knowledge: Regular expressions
