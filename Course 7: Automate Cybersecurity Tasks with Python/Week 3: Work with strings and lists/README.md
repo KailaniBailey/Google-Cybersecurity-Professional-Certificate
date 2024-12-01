@@ -30,4 +30,4 @@
 - Wrap-up
 - Reference guide: [Python concepts from module 3](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/blob/main/Course%207%3A%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%203%3A%20Work%20with%20strings%20and%20lists/Python%20concepts%20from%20module%203.pdf)
 - [Glossary terms from module 3](https://github.com/KailaniBailey/Google-Cybersecurity-Professional-Certificate/tree/main/Course%207:%20Automate%20Cybersecurity%20Tasks%20with%20Python/Week%203:%20Work%20with%20strings%20and%20lists/Glossary%20terms%20from%20module%203)
-- **Graded Quiz:** Module 3 challenge
+- **Graded Quiz:** Module 3 challenge (90%)
