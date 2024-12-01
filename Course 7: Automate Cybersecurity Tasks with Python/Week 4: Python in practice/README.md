@@ -21,8 +21,8 @@
 - Develop a parsing algorithm in Python
 - Lab Activity: Create another algorithm
 - Lab Exemplar: Create another algorithm
-- **Graded Quiz:** Portfolio Activity: Update a file through a Python algorithm
-- Portfolio Activity Exemplar: Update a file through a Python algorithm (100%)
+- **Graded Quiz:** Portfolio Activity: Update a file through a Python algorithm (100%)
+- Portfolio Activity Exemplar: Update a file through a Python algorithm
 - **Practice Quiz:** Test your knowledge: Work with files in Python
 ## Debug Python code
 - Debugging strategies
