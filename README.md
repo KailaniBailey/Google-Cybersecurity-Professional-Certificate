@@ -33,5 +33,5 @@ This repository contains select course content, relevant notes, bits of code, fi
 - Security Information and Event Management (SIEM)
 - Intrusion Detection Systems (IDS)
 
-# My Employer-Recognized Certificate from Google:
+# My Employer-Recognized Certificate from Google
 ![GoogleCyberCert](https://github.com/user-attachments/assets/064f59cf-f0bb-440f-94ce-3bdb7300e6e1)
